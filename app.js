@@ -1,8 +1,18 @@
 var express = require('express');
 var session = require('express-session');
-var Q = require('q');
-var request = Q.denodeify(require('request'));
+var path = require('path');
+var passport = require('passport');
+var LocalStrategy = require('passport-local').Strategy;
+var cookieParser = require('cookie-parser');
+var bodyParser = require('body-parser');
 var app = express();
+
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'jade');
+
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(cookieParser());
 
 app.use(session({
   secret: 'grumpy cat',
@@ -10,6 +20,9 @@ app.use(session({
   saveUninitialized: true,
   cookie: { maxAge: 60000 }
 }));
+
+app.use(passport.initialize());
+app.use(passport.session());
 
 app.use(function (req, res, next) {
   if(req.session.views > -1) {
@@ -26,34 +39,8 @@ app.use(function (req, res, next) {
   next();
 });
 
-app.get('/', function (req, res) {
-  if (req.session.views) {
-    res.send('Welcome back!');
-  }
-  else {
-    res.send('Welcome!');
-  }
-});
-
-app.get('/songs', function (req, res, next) {
-  console.log('Request URL:', req.originalUrl);
-  next();
-}, function (req, res) {
-
-  var metallicaTracksResponse = request('http://api.soundcloud.com/tracks.json?q=Metallica&client_id=288c3b51bc9cfb269d1a89d92e4196a3');
-  var queenTracksResponse = request('http://api.soundcloud.com/tracks.json?q=Queen&client_id=288c3b51bc9cfb269d1a89d92e4196a3');
-
-  Q.all([
-    metallicaTracksResponse,
-    queenTracksResponse
-  ]).then(function(responses) {
-    var allTracks = {
-      Metallica: JSON.parse(responses[0].body),
-      Queen: JSON.parse(responses[1].body)
-    };
-    res.json(allTracks);
-  });
-});
+require('./passport/init')(passport, LocalStrategy);
+app.use('/', require('./routes/index')(passport));
 
 var server = app.listen(3000, function () {
 

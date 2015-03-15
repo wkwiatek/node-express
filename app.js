@@ -10,7 +10,10 @@ app.get('/', function (req, res) {
   res.send('Hello World!');
 });
 
-app.get('/songs', function (req, res) {
+app.get('/songs', function (req, res, next) {
+  console.log('Request URL:', req.originalUrl);
+  next();
+}, function (req, res) {
   var songs = [
     { author: 'Foo Fighters', song: 'Pretender' },
     { author: 'Alter Bridge', song: 'Blackbird' }

@@ -1,5 +1,6 @@
 var express = require('express');
-var request = require('request');
+var Q = require('q');
+var request = Q.denodeify(require('request'));
 var app = express();
 
 app.use(function (req, res, next) {
@@ -16,12 +17,19 @@ app.get('/songs', function (req, res, next) {
   next();
 }, function (req, res) {
 
-  request('http://api.soundcloud.com/tracks.json?q=Metallica&client_id=288c3b51bc9cfb269d1a89d92e4196a3', function(err, response, body) {
-    if (!err && response.statusCode == 200) {
-      res.json(JSON.parse(body));
-    }
-  });
+  var metallicaTracksResponse = request('http://api.soundcloud.com/tracks.json?q=Metallica&client_id=288c3b51bc9cfb269d1a89d92e4196a3');
+  var queenTracksResponse = request('http://api.soundcloud.com/tracks.json?q=Queen&client_id=288c3b51bc9cfb269d1a89d92e4196a3');
 
+  Q.all([
+    metallicaTracksResponse,
+    queenTracksResponse
+  ]).then(function(responses) {
+    var allTracks = {
+      Metallica: JSON.parse(responses[0].body),
+      Queen: JSON.parse(responses[1].body)
+    };
+    res.json(allTracks);
+  });
 });
 
 var server = app.listen(3000, function () {

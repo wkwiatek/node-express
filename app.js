@@ -1,7 +1,25 @@
 var express = require('express');
+var session = require('express-session');
 var Q = require('q');
 var request = Q.denodeify(require('request'));
 var app = express();
+
+app.use(session({
+  secret: 'grumpy cat',
+  resave: false,
+  saveUninitialized: true,
+  cookie: { maxAge: 60000 }
+}));
+
+app.use(function (req, res, next) {
+  if(req.session.views > -1) {
+    req.session.views += 1;
+  }
+  else {
+    req.session.views = 0;
+  }
+  next();
+});
 
 app.use(function (req, res, next) {
   console.log('Time:', new Date().toISOString());
@@ -9,7 +27,12 @@ app.use(function (req, res, next) {
 });
 
 app.get('/', function (req, res) {
-  res.send('Hello World!');
+  if (req.session.views) {
+    res.send('Welcome back!');
+  }
+  else {
+    res.send('Welcome!');
+  }
 });
 
 app.get('/songs', function (req, res, next) {

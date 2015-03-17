@@ -54,8 +54,8 @@ module.exports = function (passport) {
       queenTracksResponse
     ]).then(function(responses) {
       var allTracks = {
-        Metallica: JSON.parse(responses[0].body),
-        Queen: JSON.parse(responses[1].body)
+        Metallica: JSON.parse(responses[0][0].body),
+        Queen: JSON.parse(responses[1][0].body)
       };
       res.json(allTracks);
     });

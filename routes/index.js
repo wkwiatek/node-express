@@ -25,10 +25,9 @@ module.exports = function (passport) {
     res.render('login');
   });
 
-  router.post('/login', passport.authenticate('local', {
-    successRedirect: '/songs',
-    failureRedirect: '/'
-  }));
+  router.post('/login', function (req, res) {
+    res.json(req.body);
+  });
 
   router.post('/signup', function (req, res) {
     passport.authenticate('local')(req, res, function () {

@@ -53,11 +53,11 @@ module.exports = function (passport) {
       metallicaTracksResponse,
       queenTracksResponse
     ]).then(function(responses) {
-      var allTracks = {
-        Metallica: JSON.parse(responses[0][0].body),
-        Queen: JSON.parse(responses[1][0].body)
-      };
-      res.json(allTracks);
+      res.render('songs', {
+        title: 'All songs',
+        metallicaSongs: JSON.parse(responses[0][0].body),
+        queenSongs: JSON.parse(responses[1][0].body)
+      });
     });
   });
 

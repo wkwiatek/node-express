@@ -1,7 +1,7 @@
 ---
   title: "Devmeeting Node+Express"
   name: "nodeExpress"
-  image: "./images/intro.png"
+  image: "http://wkwiatek.github.io/node-express/images/intro.png"
   visible: true
   iterations: 
     - 
@@ -12,8 +12,94 @@
           title: "Tasks 1"
           url: "http://wkwiatek.github.io/node-express/pl_task1.html"
       materials: 
+        -
+          title: 'Video 1'
+          material: '550daa643340f578180e9906'
         - 
-          title: "Video 1"
-          material: "5407095e8cc21c5423e1bfa5"
-          annotations: !include ./annotations/pl/movie1.yml
+          title: 'Video 2'
+          material: '550daa643340f578180e9907'
+        - 
+          title: 'Video 3'
+          material: '550daa643340f578180e9908'
+        - 
+          title: 'Video 4'
+          material: '550daa643340f578180e9909'
+        - 
+          title: 'Video 5'
+          material: '550daa643340f578180e990a'
+        - 
+          title: 'Video 6'
+          material: '550daa643340f578180e990b'
+        - 
+          title: 'Video 7'
+          material: '550daa643340f578180e990c'
+        - 
+          title: 'Video 8'
+          material: '550daa643340f578180e990d'
+        - 
+          title: 'Video 9'
+          material: '550daa643340f578180e990e'
+        - 
+          title: 'Video 10'
+          material: '550daa643340f578180e990f'
+        - 
+          title: 'Video 11'
+          material: '550daa643340f578180e9911'
+        - 
+          title: 'Video 12'
+          material: '550daa643340f578180e9914'
+        - 
+          title: 'Video 13'
+          material: '550daa643340f578180e9916'
+        - 
+          title: 'Video 14'
+          material: '550daa643340f578180e9917'
+        - 
+          title: 'Video 15'
+          material: '550daa643340f578180e9918'
+        - 
+          title: 'Video 16'
+          material: '550daa643340f578180e9919'
+        - 
+          title: 'Video 17'
+          material: '550daa643340f578180e991a'
+        - 
+          title: 'Video 18'
+          material: '550daa643340f578180e991b'
+        - 
+          title: 'Video 19'
+          material: '550daa643340f578180e991c'
+        - 
+          title: 'Video 20'
+          material: '550daa643340f578180e991e'
+        - 
+          title: 'Video 21'
+          material: '550daa643340f578180e991f'
+
+
+          #- 1 | 550daa643340f578180e9904
+          #+ 3  | 550daa643340f578180e9906
+          #+ 4 | 550daa643340f578180e9907
+          #5 - 550daa643340f578180e9908
+          #+ 6  | 550daa643340f578180e9909
+          #+ 7 | 550daa643340f578180e990a
+          #8 - 550daa643340f578180e990b
+          #+ 9  | 550daa643340f578180e990c
+          #+ 10 | 550daa643340f578180e990d
+          #11 - 550daa643340f578180e990e
+          #+ 12 | 550daa643340f578180e990f
+          #- 13 | 550daa643340f578180e9910
+          #14 - 550daa643340f578180e9911
+          #- 16 | 550daa643340f578180e9913
+          #17 - 550daa643340f578180e9914
+          #+ 19 | 550daa643340f578180e9916
+          #20 - 550daa643340f578180e9917
+          #+ 21 | 550daa643340f578180e9918
+          #+ 22 | 550daa643340f578180e9919
+          #23 - 550daa643340f578180e991a
+          #+ 24 | 550daa643340f578180e991b
+          #+ 25 | 550daa643340f578180e991c
+          #+ 27 | 550daa643340f578180e991e
+          #+ 28 | 550daa643340f578180e991f
+
 

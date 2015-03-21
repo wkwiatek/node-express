@@ -1,0 +1,19 @@
+---
+  title: "Devmeeting Node+Express"
+  name: "nodeExpress"
+  image: "./images/intro.png"
+  visible: true
+  iterations: 
+    - 
+      title: "Iteracja 1"
+      status: "available"
+      tasks: 
+        - 
+          title: "Tasks 1"
+          url: "http://wkwiatek.github.io/node-express/pl_task1.html"
+      materials: 
+        - 
+          title: "Video 1"
+          material: "5407095e8cc21c5423e1bfa5"
+          annotations: !include ./annotations/pl/movie1.yml
+

@@ -2,6 +2,16 @@
   title: "Devmeeting Node+Express"
   name: "nodeExpress"
   image: "http://wkwiatek.github.io/node-express/images/intro.png"
+  baseSlide: "550d6531fb2f867818a1b811"
+  intro: 
+    content:
+      name: 'Hello'
+      text: '''
+          <div class="text-center margin-top-20">
+            <h1>Node + Express</h1>
+            <h3 class="text-muted">22 Marca 2015</h3>
+          </div>
+            '''
   visible: true
   iterations: 
     - 

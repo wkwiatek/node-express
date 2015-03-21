@@ -2,6 +2,8 @@
   title: "Devmeeting Node+Express"
   name: "nodeExpress"
   image: "http://wkwiatek.github.io/node-express/images/intro.png"
+  baseSlide: "550d6531fb2f867818a1b811"
+  intro: "550db814fbb1d1d745d61ba1"
   visible: true
   iterations: 
     - 

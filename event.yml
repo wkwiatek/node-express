@@ -14,7 +14,7 @@
           title: "Tasks 1"
           url: "http://wkwiatek.github.io/node-express/pl_task1.html"
       materials: 
-        onefrog-
+        -
           title: 'Video 1'
           material: '550daa643340f578180e9906'
           annotations: !include ./annotations/pl/1.yml

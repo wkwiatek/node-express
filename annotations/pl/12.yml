@@ -3,20 +3,33 @@ annotations:
     timestamp: 0
     type: comment
   - description: ""
-    timestamp: 5.772
+    timestamp: 0
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 4.772
     type: comment
   - description: ""
-    timestamp: 19.264
+    timestamp: 6.072
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 18.264
     type: comment
   - description: ""
-    timestamp: 20.954
+    timestamp: 19.564
     type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 42.186
     type: comment
   - description: ""
-    timestamp: 45.63
+    timestamp: 44.63
     type: comment
+  - description: ""
+    timestamp: 45.93
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 48.827
     type: comment

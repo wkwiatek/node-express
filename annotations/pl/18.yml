@@ -3,17 +3,34 @@ annotations:
     timestamp: 0
     type: comment
   - description: ""
-    timestamp: 1.538
+    timestamp: 0
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 1.838
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 20.596
     type: comment
   - description: ""
-    timestamp: 21.596
+    timestamp: 21.896
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 27.625
     type: comment
   - description: ""
-    timestamp: 28.625
+    timestamp: 28.925
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 33.059
     type: comment
   - description: ""
-    timestamp: 34.059
+    timestamp: 34.359
     type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 49.991
     type: comment
@@ -21,8 +38,12 @@ annotations:
     timestamp: 54.705
     type: comment
   - description: ""
-    timestamp: 79.252
+    timestamp: 78.252
     type: comment
+  - description: ""
+    timestamp: 79.552
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 90.613
     type: comment

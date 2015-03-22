@@ -3,20 +3,32 @@ annotations:
     timestamp: 0
     type: comment
   - description: ""
+    timestamp: 0
+    type: comment
+    isPauseAfter: true
+  - description: ""
     timestamp: 9.357
     type: comment
   - description: ""
     timestamp: 11.65
     type: comment
   - description: ""
-    timestamp: 19.22
+    timestamp: 18.22
     type: comment
+  - description: ""
+    timestamp: 19.52
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 30.008
     type: comment
   - description: ""
-    timestamp: 36.208
+    timestamp: 35.208
     type: comment
+  - description: ""
+    timestamp: 36.508
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 42.175
     type: comment
@@ -30,11 +42,12 @@ annotations:
     timestamp: 67.388
     type: comment
   - description: ""
-    timestamp: 71.675
+    timestamp: 70.675
     type: comment
   - description: ""
-    timestamp: 73.441
+    timestamp: 71.975
     type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 79.786
     type: comment
@@ -42,17 +55,29 @@ annotations:
     timestamp: 81.498
     type: comment
   - description: ""
+    timestamp: 82.58
+    type: comment
+    isPauseAfter: true
+  - description: ""
     timestamp: 84.537
     type: comment
   - description: ""
     timestamp: 88.413
     type: comment
   - description: ""
-    timestamp: 92.034
+    timestamp: 91.034
     type: comment
   - description: ""
-    timestamp: 100.503
+    timestamp: 92.334
     type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 99.503
+    type: comment
+  - description: ""
+    timestamp: 100.803
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 103.04
     type: comment
@@ -72,14 +97,22 @@ annotations:
     timestamp: 131.114
     type: comment
   - description: ""
-    timestamp: 133.947
+    timestamp: 132.947
     type: comment
+  - description: ""
+    timestamp: 134.247
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 141.448
     type: comment
   - description: ""
-    timestamp: 147.29
+    timestamp: 146.29
     type: comment
+  - description: ""
+    timestamp: 147.59
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 151.992
     type: comment
@@ -90,29 +123,46 @@ annotations:
     timestamp: 185.895
     type: comment
   - description: ""
-    timestamp: 189.883
+    timestamp: 188.883
     type: comment
+  - description: ""
+    timestamp: 190.183
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 204.068
     type: comment
   - description: ""
-    timestamp: 212.267
+    timestamp: 211.267
     type: comment
+  - description: ""
+    timestamp: 212.567
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 214.176
     type: comment
   - description: ""
-    timestamp: 216.324
+    timestamp: 216.624
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 218.861
     type: comment
   - description: ""
-    timestamp: 219.861
+    timestamp: 220.161
     type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 224.686
     type: comment
   - description: ""
-    timestamp: 227.796
+    timestamp: 226.796
     type: comment
+  - description: ""
+    timestamp: 228.096
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 232.678
     type: comment
@@ -126,8 +176,12 @@ annotations:
     timestamp: 239.337
     type: comment
   - description: ""
-    timestamp: 251.081
+    timestamp: 250.081
     type: comment
+  - description: ""
+    timestamp: 251.381
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 253.327
     type: comment
@@ -144,8 +198,12 @@ annotations:
     timestamp: 276.589
     type: comment
   - description: ""
-    timestamp: 282.079
+    timestamp: 281.079
     type: comment
+  - description: ""
+    timestamp: 282.379
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 284.779
     type: comment

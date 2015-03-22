@@ -3,8 +3,16 @@ annotations:
     timestamp: 0
     type: comment
   - description: ""
-    timestamp: 3.863
+    timestamp: 0
     type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 2.863
+    type: comment
+  - description: ""
+    timestamp: 4.163
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 16.487
     type: comment
@@ -15,11 +23,16 @@ annotations:
     timestamp: 30.257
     type: comment
   - description: ""
-    timestamp: 31.774
+    timestamp: 32.074
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 84.686
     type: comment
   - description: ""
-    timestamp: 85.686
+    timestamp: 85.986
     type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 87.853
     type: comment
@@ -30,11 +43,19 @@ annotations:
     timestamp: 94.505
     type: comment
   - description: ""
-    timestamp: 124.021
+    timestamp: 123.021
     type: comment
   - description: ""
-    timestamp: 139.839
+    timestamp: 124.321
     type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 138.839
+    type: comment
+  - description: ""
+    timestamp: 140.139
+    type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 143.25
     type: comment
@@ -48,17 +69,30 @@ annotations:
     timestamp: 165.295
     type: comment
   - description: ""
-    timestamp: 180.82
+    timestamp: 179.82
     type: comment
   - description: ""
-    timestamp: 183.171
+    timestamp: 181.12
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 183.471
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 194.017
     type: comment
   - description: ""
-    timestamp: 195.017
+    timestamp: 195.317
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 210.064
     type: comment
   - description: ""
-    timestamp: 211.064
+    timestamp: 211.364
     type: comment
+    isPauseAfter: true
   - description: ""
     timestamp: 217.845
     type: comment

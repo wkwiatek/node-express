@@ -9,9 +9,6 @@ annotations:
     timestamp: 8.106
     type: comment
   - description: ""
-    timestamp: 12.216
-    type: comment
-  - description: ""
     timestamp: 16.753
     type: comment
   - description: ""
@@ -66,22 +63,13 @@ annotations:
     timestamp: 152.225
     type: comment
   - description: ""
-    timestamp: 158.325
-    type: comment
-  - description: ""
     timestamp: 159.085
     type: comment
   - description: ""
     timestamp: 161.931
     type: comment
   - description: ""
-    timestamp: 165.154
-    type: comment
-  - description: ""
     timestamp: 167.57
-    type: comment
-  - description: ""
-    timestamp: 170.482
     type: comment
   - description: ""
     timestamp: 179.925
@@ -94,9 +82,6 @@ annotations:
     type: comment
   - description: ""
     timestamp: 193.137
-    type: comment
-  - description: ""
-    timestamp: 197.741
     type: comment
   - description: ""
     timestamp: 232.873
@@ -120,10 +105,7 @@ annotations:
     timestamp: 271.174
     type: comment
   - description: ""
-    timestamp: 274.126
-    type: comment
-  - description: ""
-    timestamp: 275.454
+    timestamp: 274.983
     type: comment
   - description: ""
     timestamp: 279.048
@@ -133,9 +115,6 @@ annotations:
     type: comment
   - description: ""
     timestamp: 288.142
-    type: comment
-  - description: ""
-    timestamp: 289.927
     type: comment
   - description: ""
     timestamp: 294.792
@@ -165,9 +144,6 @@ annotations:
     timestamp: 358.073
     type: comment
   - description: ""
-    timestamp: 364.364
-    type: comment
-  - description: ""
     timestamp: 370.676
     type: comment
   - description: ""
@@ -180,8 +156,8 @@ annotations:
     timestamp: 380.419
     type: comment
   - description: ""
-    timestamp: 385.275
+    timestamp: 397.239
     type: comment
   - description: ""
-    timestamp: 397.239
+    timestamp: 410.139
     type: comment

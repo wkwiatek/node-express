@@ -6,10 +6,7 @@ annotations:
     timestamp: 9.357
     type: comment
   - description: ""
-    timestamp: 11.258
-    type: comment
-  - description: ""
-    timestamp: 11.673
+    timestamp: 11.65
     type: comment
   - description: ""
     timestamp: 19.22
@@ -31,12 +28,6 @@ annotations:
     type: comment
   - description: ""
     timestamp: 42.175
-    type: comment
-  - description: ""
-    timestamp: 44.466
-    type: comment
-  - description: ""
-    timestamp: 48.913
     type: comment
   - description: ""
     timestamp: 52.88
@@ -75,13 +66,7 @@ annotations:
     timestamp: 92.034
     type: comment
   - description: ""
-    timestamp: 94.407
-    type: comment
-  - description: ""
     timestamp: 100.503
-    type: comment
-  - description: ""
-    timestamp: 103.04
     type: comment
   - description: ""
     timestamp: 111.175
@@ -114,22 +99,16 @@ annotations:
     timestamp: 147.29
     type: comment
   - description: ""
-    timestamp: 149.851
-    type: comment
-  - description: ""
     timestamp: 151.992
     type: comment
   - description: ""
     timestamp: 182.578
     type: comment
   - description: ""
-    timestamp: 184.785
+    timestamp: 185.895
     type: comment
   - description: ""
-    timestamp: 185.917
-    type: comment
-  - description: ""
-    timestamp: 186.572
+    timestamp: 186.267
     type: comment
   - description: ""
     timestamp: 189.883
@@ -165,9 +144,6 @@ annotations:
     timestamp: 227.796
     type: comment
   - description: ""
-    timestamp: 230.301
-    type: comment
-  - description: ""
     timestamp: 234.199
     type: comment
   - description: ""
@@ -192,20 +168,14 @@ annotations:
     timestamp: 268.235
     type: comment
   - description: ""
-    timestamp: 271.453
-    type: comment
-  - description: ""
     timestamp: 276.589
-    type: comment
-  - description: ""
-    timestamp: 280.301
     type: comment
   - description: ""
     timestamp: 282.079
     type: comment
   - description: ""
-    timestamp: 284.759
+    timestamp: 289.074
     type: comment
   - description: ""
-    timestamp: 288.602
+    timestamp: 290.629
     type: comment

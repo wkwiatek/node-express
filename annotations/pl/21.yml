@@ -24,16 +24,10 @@ annotations:
     timestamp: 87.853
     type: comment
   - description: ""
-    timestamp: 89.215
-    type: comment
-  - description: ""
     timestamp: 89.966
     type: comment
   - description: ""
     timestamp: 94.505
-    type: comment
-  - description: ""
-    timestamp: 95.581
     type: comment
   - description: ""
     timestamp: 124.021
@@ -49,9 +43,6 @@ annotations:
     type: comment
   - description: ""
     timestamp: 162.844
-    type: comment
-  - description: ""
-    timestamp: 164.203
     type: comment
   - description: ""
     timestamp: 165.295

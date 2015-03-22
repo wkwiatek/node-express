@@ -6,7 +6,10 @@ annotations:
     timestamp: 6.309
     type: comment
   - description: ""
-    timestamp: 6.608
+    timestamp: 9.773
+    type: comment
+  - description: ""
+    timestamp: 12.474
     type: comment
   - description: ""
     timestamp: 20.803
@@ -18,9 +21,6 @@ annotations:
     timestamp: 37.143
     type: comment
   - description: ""
-    timestamp: 40.935
-    type: comment
-  - description: ""
     timestamp: 54.788
     type: comment
   - description: ""
@@ -28,9 +28,6 @@ annotations:
     type: comment
   - description: ""
     timestamp: 85.637
-    type: comment
-  - description: ""
-    timestamp: 86.162
     type: comment
   - description: ""
     timestamp: 89.421
@@ -43,9 +40,6 @@ annotations:
     type: comment
   - description: ""
     timestamp: 117.552
-    type: comment
-  - description: ""
-    timestamp: 118.968
     type: comment
   - description: ""
     timestamp: 121.274

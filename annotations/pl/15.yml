@@ -12,16 +12,7 @@ annotations:
     timestamp: 19.22
     type: comment
   - description: ""
-    timestamp: 23.103
-    type: comment
-  - description: ""
     timestamp: 30.008
-    type: comment
-  - description: ""
-    timestamp: 30.257
-    type: comment
-  - description: ""
-    timestamp: 30.953
     type: comment
   - description: ""
     timestamp: 36.208
@@ -36,10 +27,7 @@ annotations:
     timestamp: 60.489
     type: comment
   - description: ""
-    timestamp: 65.587
-    type: comment
-  - description: ""
-    timestamp: 67.474
+    timestamp: 67.388
     type: comment
   - description: ""
     timestamp: 71.675
@@ -54,9 +42,6 @@ annotations:
     timestamp: 81.498
     type: comment
   - description: ""
-    timestamp: 82.28
-    type: comment
-  - description: ""
     timestamp: 84.537
     type: comment
   - description: ""
@@ -69,6 +54,9 @@ annotations:
     timestamp: 100.503
     type: comment
   - description: ""
+    timestamp: 103.04
+    type: comment
+  - description: ""
     timestamp: 111.175
     type: comment
   - description: ""
@@ -78,22 +66,16 @@ annotations:
     timestamp: 126.655
     type: comment
   - description: ""
-    timestamp: 126.917
+    timestamp: 128.926
     type: comment
   - description: ""
     timestamp: 131.114
     type: comment
   - description: ""
-    timestamp: 131.386
-    type: comment
-  - description: ""
-    timestamp: 131.603
-    type: comment
-  - description: ""
     timestamp: 133.947
     type: comment
   - description: ""
-    timestamp: 137.506
+    timestamp: 141.448
     type: comment
   - description: ""
     timestamp: 147.29
@@ -108,13 +90,7 @@ annotations:
     timestamp: 185.895
     type: comment
   - description: ""
-    timestamp: 186.267
-    type: comment
-  - description: ""
     timestamp: 189.883
-    type: comment
-  - description: ""
-    timestamp: 193.581
     type: comment
   - description: ""
     timestamp: 204.068
@@ -126,22 +102,19 @@ annotations:
     timestamp: 214.176
     type: comment
   - description: ""
-    timestamp: 214.348
-    type: comment
-  - description: ""
     timestamp: 216.324
     type: comment
   - description: ""
     timestamp: 219.861
     type: comment
   - description: ""
-    timestamp: 220.88
-    type: comment
-  - description: ""
     timestamp: 224.686
     type: comment
   - description: ""
     timestamp: 227.796
+    type: comment
+  - description: ""
+    timestamp: 232.678
     type: comment
   - description: ""
     timestamp: 234.199
@@ -172,6 +145,9 @@ annotations:
     type: comment
   - description: ""
     timestamp: 282.079
+    type: comment
+  - description: ""
+    timestamp: 284.779
     type: comment
   - description: ""
     timestamp: 289.074

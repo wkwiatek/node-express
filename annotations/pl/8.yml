@@ -1,22 +1,16 @@
----
 annotations:
-  -
-    description: ""
-    timestamp: 0
+  - description: ""
+    timestamp: -0.1
     type: comment
-  -
-    description: ""
-    timestamp: 13399
+  - description: ""
+    timestamp: 13.299
     type: comment
-  -
-    description: ""
-    timestamp: 44268
+  - description: ""
+    timestamp: 44.168
     type: comment
-  -
-    description: ""
-    timestamp: 73208
+  - description: ""
+    timestamp: 73.108
     type: comment
-  -
-    description: ""
-    timestamp: 192308
+  - description: ""
+    timestamp: 192.208
     type: comment

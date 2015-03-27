@@ -7,6 +7,6 @@ html
     ul
       each song in songs
         li #{song.title} (#{song.author})
-
+    a(href='/chat') Go to chat
     form(action="/logout" method="post")
       button Log Out

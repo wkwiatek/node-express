@@ -3,15 +3,7 @@
   name: "nodeExpress"
   image: "http://wkwiatek.github.io/node-express/images/intro.png"
   baseSlide: "550d6531fb2f867818a1b811"
-  intro: 
-    content:
-      name: 'Hello'
-      text: '''
-          <div class="text-center margin-top-20">
-            <h1>Node + Express</h1>
-            <h3 class="text-muted">22 Marca 2015</h3>
-          </div>
-            '''
+  intro: "550db814fbb1d1d745d61ba1"
   visible: true
   iterations: 
     - 
@@ -25,66 +17,87 @@
         -
           title: 'Video 1'
           material: '550daa643340f578180e9906'
+          annotations: !include ./annotations/pl/1.yml
         - 
           title: 'Video 2'
           material: '550daa643340f578180e9907'
+          annotations: !include ./annotations/pl/2.yml
         - 
           title: 'Video 3'
           material: '550daa643340f578180e9908'
+          annotations: !include ./annotations/pl/3.yml
         - 
           title: 'Video 4'
           material: '550daa643340f578180e9909'
+          annotations: !include ./annotations/pl/4.yml
         - 
           title: 'Video 5'
           material: '550daa643340f578180e990a'
+          annotations: !include ./annotations/pl/5.yml
         - 
           title: 'Video 6'
           material: '550daa643340f578180e990b'
+          annotations: !include ./annotations/pl/6.yml
         - 
           title: 'Video 7'
           material: '550daa643340f578180e990c'
+          annotations: !include ./annotations/pl/7.yml
         - 
           title: 'Video 8'
           material: '550daa643340f578180e990d'
+          annotations: !include ./annotations/pl/8.yml
         - 
           title: 'Video 9'
           material: '550daa643340f578180e990e'
+          annotations: !include ./annotations/pl/9.yml
         - 
           title: 'Video 10'
           material: '550daa643340f578180e990f'
+          annotations: !include ./annotations/pl/10.yml
         - 
           title: 'Video 11'
           material: '550daa643340f578180e9911'
+          annotations: !include ./annotations/pl/11.yml
         - 
           title: 'Video 12'
           material: '550daa643340f578180e9914'
+          annotations: !include ./annotations/pl/12.yml
         - 
           title: 'Video 13'
           material: '550daa643340f578180e9916'
+          annotations: !include ./annotations/pl/13.yml
         - 
           title: 'Video 14'
           material: '550daa643340f578180e9917'
+          annotations: !include ./annotations/pl/14.yml
         - 
           title: 'Video 15'
           material: '550daa643340f578180e9918'
+          annotations: !include ./annotations/pl/15.yml
         - 
           title: 'Video 16'
           material: '550daa643340f578180e9919'
+          annotations: !include ./annotations/pl/16.yml
         - 
           title: 'Video 17'
           material: '550daa643340f578180e991a'
+          annotations: !include ./annotations/pl/17.yml
         - 
           title: 'Video 18'
           material: '550daa643340f578180e991b'
+          annotations: !include ./annotations/pl/18.yml
         - 
           title: 'Video 19'
           material: '550daa643340f578180e991c'
+          annotations: !include ./annotations/pl/19.yml
         - 
           title: 'Video 20'
           material: '550daa643340f578180e991e'
+          annotations: !include ./annotations/pl/20.yml
         - 
           title: 'Video 21'
           material: '550daa643340f578180e991f'
+          annotations: !include ./annotations/pl/21.yml
 
 
           #- 1 | 550daa643340f578180e9904

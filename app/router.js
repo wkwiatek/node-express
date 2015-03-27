@@ -29,8 +29,17 @@ router.get('/songs/:q', function(req, res) {
   });
 });
 
-router.get('/chat', function(req, res) {
-  res.render('chat');
+router.get('/chat', function(req, res, next) {
+  if(!req.user) {
+    res.sendStatus(403);
+  }
+  else {
+    next();
+  }
+}, function(req, res) {
+  res.render('chat', {
+    user: req.user
+  });
 });
 
 module.exports = router;

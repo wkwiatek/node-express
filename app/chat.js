@@ -4,7 +4,7 @@ module.exports = function(io) {
     console.log('Hello socket!');
 
     socket.on('chat message', function(msg) {
-      console.log('msg', msg);
+      socket.broadcast.emit('chat message', msg);
     });
 
   });

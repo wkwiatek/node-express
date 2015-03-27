@@ -1,4 +1,7 @@
-form(action='/login', method='POST')
-  input(type='text', name='username', placeholder='Email', required, autofocus)
-  input(type='password', name='password', placeholder='Password', required)
-  button(type='submit') Sign in
+html
+  head
+  body
+    form(method="post" action="/login")
+      input(type="text" name="username" placeholder="username")
+      input(type="password" name="password" placeholder="password")
+      button Log In

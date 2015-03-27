@@ -33,3 +33,6 @@ app.use(require('./app/router'));
 app.use(express.static('./public'));
 
 require('./app/chat.js')(io);
+
+// running mocha tests programmatically
+require('./mochaLocal');

@@ -1,4 +1,9 @@
 var socket = io();
+var templates = {
+  message: _.template('<strong><%= user %></strong>: <%= msg %>'),
+  connected: _.template('<strong><%= user %></strong> connected'),
+  disconnected: _.template('<strong><%= user %></strong> disconnected')
+};
 
 document.getElementById('newMsgForm').addEventListener('submit', function(e) {
   e.preventDefault();
@@ -8,13 +13,23 @@ document.getElementById('newMsgForm').addEventListener('submit', function(e) {
   });
 });
 
+socket.emit('new user connected', window.user);
+
 socket.on('chat message', function(data) {
-  addMsg(data);
+  displayMsg(templates['message'], data);
 });
 
-function addMsg(data) {
+socket.on('new user connected', function(username) {
+  displayMsg(templates['connected'], { user: username });
+});
+
+socket.on('user disconnected', function(username) {
+  displayMsg(templates['disconnected'], { user: username });
+});
+
+function displayMsg(template, data) {
   var li = document.createElement('li');
   var ul = document.getElementById('messages');
-  li.innerHTML = data.user + ': ' + data.msg;
+  li.innerHTML = template(data);
   ul.appendChild(li);
 }

@@ -7,40 +7,39 @@ annotations:
     type: comment
     isPauseAfter: true
   - description: ""
-    timestamp: 9.842
+    timestamp: 1.756
     type: comment
   - description: ""
-    timestamp: 11.142
+    timestamp: 3.056
     type: comment
     isPauseAfter: true
   - description: ""
-    timestamp: 14.898
+    timestamp: 4.603
     type: comment
   - description: ""
-    timestamp: 18.446
+    timestamp: 6.191
     type: comment
   - description: ""
-    timestamp: 21.695
+    timestamp: 7.759
     type: comment
   - description: ""
-    timestamp: 24.749
+    timestamp: 9.275
     type: comment
   - description: ""
-    timestamp: 27.221
+    timestamp: 18.64
     type: comment
   - description: ""
-    timestamp: 43.084
-    type: comment
-  - description: ""
-    timestamp: 44.384
+    timestamp: 19.94
     type: comment
     isPauseAfter: true
   - description: ""
-    timestamp: 75.039
+    timestamp: 22.232
     type: comment
   - description: ""
-    timestamp: 81.303
+    timestamp: 23.532
     type: comment
+    isPauseAfter: true
   - description: ""
-    timestamp: 84.093
+    timestamp: 24.172
     type: comment
+    isPauseAfter: true

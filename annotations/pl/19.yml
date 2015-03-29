@@ -16,7 +16,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 86.025
+    timestamp: 73.874
     type: comment
     reason: "beforeTab: app/router|js, index|js"
   - description: ""
@@ -24,7 +24,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 110.718
+    timestamp: 109.825
     type: comment
     reason: "beforeTab: views/index|jade, app/router|js"
   - description: ""
@@ -36,7 +36,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 139.863
+    timestamp: 128.596
     type: comment
     reason: "beforeTab: index|js, views/index|jade"
   - description: ""

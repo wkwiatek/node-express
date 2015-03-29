@@ -8,7 +8,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 29.389
+    timestamp: 18.45
     type: comment
     reason: "beforeTab: app/router|js, app/chat|js"
   - description: ""
@@ -36,7 +36,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 86.74
+    timestamp: 77.857
     type: comment
     reason: "beforeTab: views/chat|jade, app/router|js"
   - description: ""
@@ -48,7 +48,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 124.147
+    timestamp: 116.282
     type: comment
     reason: "beforeTab: public/chat|js, views/chat|jade"
   - description: ""
@@ -83,10 +83,6 @@ annotations:
     timestamp: 266.616
     type: comment
     reason: "urlChange: /login, /"
-  - description: ""
-    timestamp: 268.861
-    type: comment
-    reason: "beforeTab: app/router|js, public/chat|js"
   - description: ""
     timestamp: 270.161
     type: comment

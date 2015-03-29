@@ -16,10 +16,6 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 15.363
-    type: comment
-    reason: "beforeTab: index|js, mochaLocal|js"
-  - description: ""
     timestamp: 16.663
     type: comment
     reason: afterTab
@@ -32,7 +28,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 44.443
+    timestamp: 31.149
     type: comment
     reason: "beforeTab: console, index|js"
   - description: ""
@@ -40,7 +36,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 89.419
+    timestamp: 84.451
     type: comment
     reason: "beforeTab: package|json, console"
   - description: ""

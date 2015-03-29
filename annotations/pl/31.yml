@@ -8,10 +8,6 @@ annotations:
     type: comment
     reason: "longPause: 5265"
   - description: ""
-    timestamp: 9.587
-    type: comment
-    reason: "beforeTab: test/controller|js, package|json"
-  - description: ""
     timestamp: 10.887
     type: comment
     reason: afterTab

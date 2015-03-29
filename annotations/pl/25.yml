@@ -12,7 +12,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 58.984
+    timestamp: 46.872
     type: comment
     reason: "beforeTab: public/chat|js, views/chat|jade"
   - description: ""
@@ -60,7 +60,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 160.376
+    timestamp: 152.334
     type: comment
     reason: "beforeTab: app/chat|js, public/chat|js"
   - description: ""

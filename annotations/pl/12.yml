@@ -4,15 +4,11 @@ annotations:
     type: comment
     reason: "beforeTab: index|js, null"
   - description: ""
-    timestamp: 4.472
-    type: comment
-    reason: "beforeTab: console, index|js"
-  - description: ""
     timestamp: 5.772
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 17.964
+    timestamp: 16.047
     type: comment
     reason: "beforeTab: package|json, console"
   - description: ""
@@ -24,7 +20,7 @@ annotations:
     type: comment
     reason: "longPause: 13843"
   - description: ""
-    timestamp: 44.33
+    timestamp: 45.481
     type: comment
     reason: "beforeTab: index|js, package|json"
   - description: ""

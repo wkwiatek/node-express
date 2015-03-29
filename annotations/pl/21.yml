@@ -4,10 +4,6 @@ annotations:
     type: comment
     reason: "beforeTab: views/index|jade, null"
   - description: ""
-    timestamp: 2.563
-    type: comment
-    reason: "beforeTab: app/auth|js, views/index|jade"
-  - description: ""
     timestamp: 3.863
     type: comment
     reason: afterTab
@@ -20,7 +16,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 30.474
+    timestamp: 30.457
     type: comment
     reason: "beforeTab: views/login|jade, app/auth|js"
   - description: ""
@@ -28,7 +24,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 84.386
+    timestamp: 79.182
     type: comment
     reason: "beforeTab: app/auth|js, views/login|jade"
   - description: ""
@@ -48,7 +44,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 122.721
+    timestamp: 120.481
     type: comment
     reason: "beforeTab: views/index|jade, app/auth|js"
   - description: ""
@@ -56,7 +52,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 138.539
+    timestamp: 137.698
     type: comment
     reason: "beforeTab: app/auth|js, views/index|jade"
   - description: ""
@@ -80,7 +76,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 179.52
+    timestamp: 166.882
     type: comment
     reason: "beforeTab: index|js, app/auth|js"
   - description: ""
@@ -92,7 +88,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 193.717
+    timestamp: 191.493
     type: comment
     reason: "beforeTab: package|json, console"
   - description: ""
@@ -100,7 +96,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 209.764
+    timestamp: 208.131
     type: comment
     reason: "beforeTab: index|js, package|json"
   - description: ""

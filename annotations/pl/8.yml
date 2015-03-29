@@ -8,7 +8,7 @@ annotations:
     type: comment
     reason: "longPause: 6115"
   - description: ""
-    timestamp: 11.099
+    timestamp: 11.836
     type: comment
     reason: "beforeTab: package|json, console"
   - description: ""
@@ -20,10 +20,6 @@ annotations:
     type: comment
     reason: "longPause: 17814"
   - description: ""
-    timestamp: 41.968
-    type: comment
-    reason: "beforeTab: views/index|jade, package|json"
-  - description: ""
     timestamp: 43.268
     type: comment
     reason: afterTab
@@ -32,7 +28,7 @@ annotations:
     type: comment
     reason: "longPause: 5174"
   - description: ""
-    timestamp: 70.908
+    timestamp: 67.004
     type: comment
     reason: "beforeTab: index|js, views/index|jade"
   - description: ""
@@ -91,10 +87,6 @@ annotations:
     timestamp: 186.317
     type: comment
     reason: "longPause: 11888"
-  - description: ""
-    timestamp: 190.008
-    type: comment
-    reason: "beforeTab: views/index|jade, index|js"
   - description: ""
     timestamp: 191.308
     type: comment

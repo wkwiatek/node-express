@@ -2,53 +2,64 @@ annotations:
   - description: ""
     timestamp: 0
     type: comment
+    reason: "beforeTab: index|js, null"
   - description: ""
-    timestamp: 0
+    timestamp: 6.009
     type: comment
-    isPauseAfter: true
+    reason: "longPause: 7305"
   - description: ""
-    timestamp: 6.309
+    timestamp: 9.473
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 9.773
+    timestamp: 12.174
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 12.474
+    timestamp: 20.503
     type: comment
+    reason: "longPause: 6488"
   - description: ""
-    timestamp: 20.803
+    timestamp: 25.661
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 25.961
+    timestamp: 35.843
     type: comment
+    reason: "beforeTab: views/index|jade, index|js"
   - description: ""
-    timestamp: 36.143
+    timestamp: 37.143
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 37.443
+    timestamp: 54.488
     type: comment
-    isPauseAfter: true
+    reason: "longPause: 12794"
   - description: ""
-    timestamp: 54.788
+    timestamp: 81.211
     type: comment
+    reason: "longPause: 11014"
   - description: ""
-    timestamp: 81.511
+    timestamp: 85.337
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 85.637
+    timestamp: 89.121
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 89.421
+    timestamp: 99.251
     type: comment
+    reason: "longPause: 5509"
   - description: ""
-    timestamp: 99.551
+    timestamp: 114.46
     type: comment
+    reason: "longPause: 8651"
   - description: ""
-    timestamp: 114.76
+    timestamp: 117.252
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 117.552
+    timestamp: 120.974
     type: comment
-  - description: ""
-    timestamp: 121.274
-    type: comment
+    reason: last

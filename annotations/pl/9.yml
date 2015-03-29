@@ -2,27 +2,28 @@ annotations:
   - description: ""
     timestamp: 0
     type: comment
+    reason: "beforeTab: views/index|jade, null"
   - description: ""
-    timestamp: 0
+    timestamp: 1.559
     type: comment
-    isPauseAfter: true
+    reason: afterTab
   - description: ""
-    timestamp: 1.859
+    timestamp: 16.179
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 16.479
+    timestamp: 18.311
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 18.611
+    timestamp: 33.398
     type: comment
+    reason: "beforeTab: views/index|jade, index|js"
   - description: ""
-    timestamp: 33.698
+    timestamp: 34.698
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 34.998
+    timestamp: 51.223
     type: comment
-    isPauseAfter: true
-  - description: ""
-    timestamp: 51.523
-    type: comment
+    reason: "longPause: 9173"

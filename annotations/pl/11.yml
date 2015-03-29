@@ -2,82 +2,104 @@ annotations:
   - description: ""
     timestamp: 0
     type: comment
+    reason: "beforeTab: index|js, null"
   - description: ""
-    timestamp: 0
+    timestamp: 5.252
     type: comment
-    isPauseAfter: true
+    reason: "longPause: 6548"
   - description: ""
-    timestamp: 5.552
+    timestamp: 9.142
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 9.442
+    timestamp: 12.424
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 12.724
+    timestamp: 46.811
     type: comment
+    reason: "longPause: 34339"
   - description: ""
-    timestamp: 47.111
+    timestamp: 81.195
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 81.495
+    timestamp: 92.965
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 93.265
+    timestamp: 99.7
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 100
+    timestamp: 105.748
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 106.048
+    timestamp: 108.273
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 108.573
+    timestamp: 110.363
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 110.663
+    timestamp: 112.843
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 113.143
+    timestamp: 114.793
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 115.093
+    timestamp: 119.788
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 120.088
+    timestamp: 121.291
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 121.591
+    timestamp: 124.835
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 125.135
+    timestamp: 138.163
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 138.463
+    timestamp: 147.996
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 148.296
+    timestamp: 150.499
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 150.799
+    timestamp: 175.162
     type: comment
+    reason: "longPause: 21889"
   - description: ""
-    timestamp: 175.462
+    timestamp: 181.548
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 181.848
+    timestamp: 184.916
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 185.216
+    timestamp: 190.235
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 190.535
+    timestamp: 198.171
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 198.471
+    timestamp: 201.267
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 201.567
+    timestamp: 202.875
     type: comment
-  - description: ""
-    timestamp: 203.175
-    type: comment
+    reason: last

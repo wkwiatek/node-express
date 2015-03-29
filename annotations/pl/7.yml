@@ -2,48 +2,56 @@ annotations:
   - description: ""
     timestamp: 0
     type: comment
+    reason: "beforeTab: index|js, null"
   - description: ""
-    timestamp: 0
+    timestamp: 5.283
     type: comment
-    isPauseAfter: true
+    reason: "longPause: 6575"
   - description: ""
-    timestamp: 5.583
+    timestamp: 15.954
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 16.254
+    timestamp: 17.91
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 18.21
+    timestamp: 24.577
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 24.877
+    timestamp: 27.887
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 28.187
+    timestamp: 43.77
     type: comment
+    reason: "longPause: 13717"
   - description: ""
-    timestamp: 44.07
+    timestamp: 46.843
     type: comment
+    reason: "beforeTab: public/styles|css, index|js"
   - description: ""
-    timestamp: 47.143
+    timestamp: 48.143
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 48.443
+    timestamp: 58.055
     type: comment
-    isPauseAfter: true
+    reason: "beforeTab: public/index|html, public/styles|css"
   - description: ""
-    timestamp: 58.355
+    timestamp: 59.355
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 59.655
+    timestamp: 65.063
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 65.363
+    timestamp: 76.647
     type: comment
+    reason: "longPause: 7051"
   - description: ""
-    timestamp: 76.947
+    timestamp: 80.209
     type: comment
-  - description: ""
-    timestamp: 80.509
-    type: comment
+    reason: last

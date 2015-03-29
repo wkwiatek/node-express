@@ -2,45 +2,52 @@ annotations:
   - description: ""
     timestamp: 0
     type: comment
+    reason: "beforeTab: app/router|js, null"
   - description: ""
-    timestamp: 0
+    timestamp: 9.542
     type: comment
-    isPauseAfter: true
+    reason: "beforeTab: app/getSongs|js, app/router|js"
   - description: ""
-    timestamp: 9.842
+    timestamp: 10.842
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 11.142
+    timestamp: 14.598
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 14.898
+    timestamp: 18.146
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 18.446
+    timestamp: 21.395
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 21.695
+    timestamp: 24.449
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 24.749
+    timestamp: 26.921
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 27.221
+    timestamp: 42.784
     type: comment
+    reason: "beforeTab: app/router|js, app/getSongs|js"
   - description: ""
-    timestamp: 43.084
+    timestamp: 44.084
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 44.384
+    timestamp: 74.739
     type: comment
-    isPauseAfter: true
+    reason: "longPause: 17601"
   - description: ""
-    timestamp: 75.039
+    timestamp: 81.003
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 81.303
+    timestamp: 83.793
     type: comment
-  - description: ""
-    timestamp: 84.093
-    type: comment
+    reason: last

@@ -2,73 +2,80 @@ annotations:
   - description: ""
     timestamp: 0
     type: comment
+    reason: "beforeTab: index|js, null"
   - description: ""
-    timestamp: 0
+    timestamp: 5.021
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 5.321
+    timestamp: 44.754
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 28.339
+    timestamp: 46.307
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 45.054
+    timestamp: 86.025
     type: comment
+    reason: "beforeTab: app/router|js, index|js"
   - description: ""
-    timestamp: 46.607
+    timestamp: 87.325
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 86.325
+    timestamp: 110.718
     type: comment
+    reason: "beforeTab: views/index|jade, app/router|js"
   - description: ""
-    timestamp: 87.625
+    timestamp: 112.018
     type: comment
-    isPauseAfter: true
+    reason: afterTab
   - description: ""
-    timestamp: 92.727
+    timestamp: 113.85
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 111.018
+    timestamp: 139.863
     type: comment
+    reason: "beforeTab: index|js, views/index|jade"
   - description: ""
-    timestamp: 112.318
+    timestamp: 141.163
     type: comment
-    isPauseAfter: true
+    reason: afterTab
   - description: ""
-    timestamp: 114.15
+    timestamp: 146.536
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 140.163
+    timestamp: 149.629
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 141.463
+    timestamp: 153.268
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 146.316
+    timestamp: 165.831
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 149.69
+    timestamp: 168.542
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 155.065
+    timestamp: 173.242
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 166.131
+    timestamp: 175.477
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 168.842
+    timestamp: 179.039
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 173.542
+    timestamp: 183.079
     type: comment
-  - description: ""
-    timestamp: 175.777
-    type: comment
-  - description: ""
-    timestamp: 179.339
-    type: comment
-  - description: ""
-    timestamp: 183.379
-    type: comment
+    reason: last

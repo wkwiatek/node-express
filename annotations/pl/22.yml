@@ -1,0 +1,45 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+  - description: ""
+    timestamp: 0
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 1.756
+    type: comment
+  - description: ""
+    timestamp: 3.056
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 4.603
+    type: comment
+  - description: ""
+    timestamp: 6.191
+    type: comment
+  - description: ""
+    timestamp: 7.759
+    type: comment
+  - description: ""
+    timestamp: 9.275
+    type: comment
+  - description: ""
+    timestamp: 18.64
+    type: comment
+  - description: ""
+    timestamp: 19.94
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 22.232
+    type: comment
+  - description: ""
+    timestamp: 23.532
+    type: comment
+    isPauseAfter: true
+  - description: ""
+    timestamp: 24.172
+    type: comment
+    isPauseAfter: true

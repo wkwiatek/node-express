@@ -98,7 +98,76 @@
           title: 'Video 21'
           material: '550daa643340f578180e991f'
           annotations: !include ./annotations/pl/21.yml
+    - 
+      title: "Iteracja 2"
+      status: "available"
+      tasks: []
+      materials: 
+        -
+          title: 'Video 1'
+          material: '5517abe566a6815069ca3a54'
+          annotations: !include ./annotations/pl/22.yml
+        - 
+          title: 'Video 2'
+          material: '5517abe566a6815069ca3a55'
+          annotations: !include ./annotations/pl/23.yml
+        - 
+          title: 'Video 3'
+          material: '5517abe566a6815069ca3a56'
+          annotations: !include ./annotations/pl/24.yml
+        - 
+          title: 'Video 4'
+          material: '5517abe566a6815069ca3a57'
+          annotations: !include ./annotations/pl/25.yml
+        - 
+          title: 'Video 4'
+          material: '5517ad3066a6815069ca3a60'
+          annotations: !include ./annotations/pl/26.yml
+        - 
+          title: 'Video 5'
+          material: '5517b48366a6815069ca3a6a'
+          annotations: !include ./annotations/pl/27.yml
+        - 
+          title: 'Video 6'
+          material: '5517b4c066a6815069ca3a6b'
+          annotations: !include ./annotations/pl/28.yml
+        - 
+          title: 'Video 7'
+          material: '5517bf7e88a13e257751d53a'
+          annotations: !include ./annotations/pl/29.yml
+        - 
+          title: 'Video 8'
+          material: '5517bfa988a13e257751d53b'
+          annotations: !include ./annotations/pl/30.yml
+        - 
+          title: 'Video 9'
+          material: '5517b73766a6815069ca3a74'
+          annotations: !include ./annotations/pl/31.yml
+        - 
+          title: 'Video 10'
+          material: '5517b78366a6815069ca3a75'
+          annotations: !include ./annotations/pl/32.yml
+        - 
+          title: 'Video 11'
+          material: '5517b7f8f054a0bd72c56d07'
+          annotations: !include ./annotations/pl/33.yml
+        - 
+          title: 'Video 12'
+          material: '5517b807f054a0bd72c56d08'
+          annotations: !include ./annotations/pl/34.yml
 
+          #'5517abe566a6815069ca3a55
+          #'5517abe566a6815069ca3a56
+          #'5517abe566a6815069ca3a57
+          #'5517ad3066a6815069ca3a60
+          #'5517b48366a6815069ca3a6a
+          #'5517b4c066a6815069ca3a6b
+          #-
+          #-
+          #'5517b73766a6815069ca3a74
+          #'5517b78366a6815069ca3a75
+          #'5517b7f8f054a0bd72c56d07
+          #'5517b807f054a0bd72c56d08
 
           #- 1 | 550daa643340f578180e9904
           #+ 3  | 550daa643340f578180e9906

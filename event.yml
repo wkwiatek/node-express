@@ -5,153 +5,153 @@
   baseSlide: "550d6531fb2f867818a1b811"
   intro: "550db814fbb1d1d745d61ba1"
   visible: true
-  iterations: 
-    - 
+  iterations:
+    -
       title: "Iteracja 1"
       status: "available"
-      tasks: 
-        - 
+      tasks:
+        -
           title: "Tasks 1"
           url: "http://wkwiatek.github.io/node-express/pl_task1.html"
-      materials: 
+      materials:
         -
-          title: 'Video 1'
+          title: '1. Node.js server'
           material: '550daa643340f578180e9906'
           annotations: !include ./annotations/pl/1.yml
-        - 
-          title: 'Video 2'
+        -
+          title: '2. Express server'
           material: '550daa643340f578180e9907'
           annotations: !include ./annotations/pl/2.yml
-        - 
-          title: 'Video 3'
+        -
+          title: '3. Express server shorthand'
           material: '550daa643340f578180e9908'
           annotations: !include ./annotations/pl/3.yml
-        - 
-          title: 'Video 4'
+        -
+          title: '4. Respond with JSON'
           material: '550daa643340f578180e9909'
           annotations: !include ./annotations/pl/4.yml
-        - 
-          title: 'Video 5'
+        -
+          title: '5. Middleware'
           material: '550daa643340f578180e990a'
           annotations: !include ./annotations/pl/5.yml
-        - 
-          title: 'Video 6'
+        -
+          title: '6. Static resources'
           material: '550daa643340f578180e990b'
           annotations: !include ./annotations/pl/6.yml
-        - 
-          title: 'Video 7'
+        -
+          title: '7. Middleware and static resources'
           material: '550daa643340f578180e990c'
           annotations: !include ./annotations/pl/7.yml
-        - 
-          title: 'Video 8'
+        -
+          title: '8. jade'
           material: '550daa643340f578180e990d'
           annotations: !include ./annotations/pl/8.yml
-        - 
-          title: 'Video 9'
+        -
+          title: '9. jade - dynamic content'
           material: '550daa643340f578180e990e'
           annotations: !include ./annotations/pl/9.yml
-        - 
-          title: 'Video 10'
+        -
+          title: '10. jade - loops'
           material: '550daa643340f578180e990f'
           annotations: !include ./annotations/pl/10.yml
-        - 
-          title: 'Video 11'
+        -
+          title: '11. Querying API'
           material: '550daa643340f578180e9911'
           annotations: !include ./annotations/pl/11.yml
-        - 
-          title: 'Video 12'
+        -
+          title: '12. Request'
           material: '550daa643340f578180e9914'
           annotations: !include ./annotations/pl/12.yml
-        - 
-          title: 'Video 13'
+        -
+          title: '13. Callbacks'
           material: '550daa643340f578180e9916'
           annotations: !include ./annotations/pl/13.yml
-        - 
-          title: 'Video 14'
+        -
+          title: '14. Promises'
           material: '550daa643340f578180e9917'
           annotations: !include ./annotations/pl/14.yml
-        - 
-          title: 'Video 15'
+        -
+          title: '15. Modules'
           material: '550daa643340f578180e9918'
           annotations: !include ./annotations/pl/15.yml
-        - 
-          title: 'Video 16'
+        -
+          title: '16. Additional data in URL'
           material: '550daa643340f578180e9919'
           annotations: !include ./annotations/pl/16.yml
-        - 
-          title: 'Video 17'
+        -
+          title: '17. More promises'
           material: '550daa643340f578180e991a'
           annotations: !include ./annotations/pl/17.yml
-        - 
-          title: 'Video 18'
+        -
+          title: '18. Express session'
           material: '550daa643340f578180e991b'
           annotations: !include ./annotations/pl/18.yml
-        - 
-          title: 'Video 19'
+        -
+          title: '19. Data in session'
           material: '550daa643340f578180e991c'
           annotations: !include ./annotations/pl/19.yml
-        - 
-          title: 'Video 20'
-          material: '550daa643340f578180e991e'
-          annotations: !include ./annotations/pl/20.yml
-        - 
-          title: 'Video 21'
-          material: '550daa643340f578180e991f'
-          annotations: !include ./annotations/pl/21.yml
-    - 
+    -
       title: "Iteracja 2"
       status: "available"
       tasks: []
-      materials: 
+      materials:
+        -
+          title: 'Video 20'
+          material: '550daa643340f578180e991e'
+          annotations: !include ./annotations/pl/20.yml
+        -
+          title: 'Video 21'
+          material: '550daa643340f578180e991f'
+          annotations: !include ./annotations/pl/21.yml
         -
           title: 'Video 1'
           material: '5517abe566a6815069ca3a54'
           annotations: !include ./annotations/pl/22.yml
-        - 
+        -
           title: 'Video 2'
           material: '5517abe566a6815069ca3a55'
           annotations: !include ./annotations/pl/23.yml
-        - 
+        -
           title: 'Video 3'
           material: '5517abe566a6815069ca3a56'
           annotations: !include ./annotations/pl/24.yml
-        - 
+        -
           title: 'Video 4'
           material: '5517abe566a6815069ca3a57'
           annotations: !include ./annotations/pl/25.yml
-        - 
+        -
           title: 'Video 4'
           material: '5517ad3066a6815069ca3a60'
           annotations: !include ./annotations/pl/26.yml
-        - 
+        -
           title: 'Video 5'
           material: '5517b48366a6815069ca3a6a'
           annotations: !include ./annotations/pl/27.yml
-        - 
+        -
           title: 'Video 6'
           material: '5517b4c066a6815069ca3a6b'
           annotations: !include ./annotations/pl/28.yml
-        - 
+        -
           title: 'Video 7'
           material: '5517bf7e88a13e257751d53a'
           annotations: !include ./annotations/pl/29.yml
-        - 
+        -
           title: 'Video 8'
           material: '5517bfa988a13e257751d53b'
           annotations: !include ./annotations/pl/30.yml
-        - 
+        -
           title: 'Video 9'
           material: '5517b73766a6815069ca3a74'
           annotations: !include ./annotations/pl/31.yml
-        - 
+        -
           title: 'Video 10'
           material: '5517b78366a6815069ca3a75'
           annotations: !include ./annotations/pl/32.yml
-        - 
+        -
           title: 'Video 11'
           material: '5517b7f8f054a0bd72c56d07'
           annotations: !include ./annotations/pl/33.yml
-        - 
+        -
           title: 'Video 12'
           material: '5517b807f054a0bd72c56d08'
           annotations: !include ./annotations/pl/34.yml

@@ -7,233 +7,212 @@ annotations:
     type: comment
     isPauseAfter: true
   - description: ""
-    timestamp: 0.422
+    timestamp: 1.515
     type: comment
-    isPauseAfter: true
   - description: ""
-    timestamp: 1.93
+    timestamp: 3.586
     type: comment
   - description: ""
-    timestamp: 3.49
+    timestamp: 5.34
     type: comment
   - description: ""
-    timestamp: 5.643
+    timestamp: 7.251
     type: comment
   - description: ""
-    timestamp: 7.161
+    timestamp: 9.258
     type: comment
   - description: ""
-    timestamp: 9.025
+    timestamp: 10.761
     type: comment
   - description: ""
-    timestamp: 10.617
+    timestamp: 12.263
     type: comment
   - description: ""
-    timestamp: 11.515
+    timestamp: 13.936
     type: comment
-    isPauseAfter: true
   - description: ""
-    timestamp: 13.091
+    timestamp: 15.502
     type: comment
   - description: ""
-    timestamp: 14.68
+    timestamp: 17.016
     type: comment
   - description: ""
-    timestamp: 16.304
+    timestamp: 18.55
     type: comment
   - description: ""
-    timestamp: 17.907
+    timestamp: 20.06
     type: comment
   - description: ""
-    timestamp: 19.453
+    timestamp: 21.755
     type: comment
   - description: ""
-    timestamp: 28.156
+    timestamp: 24.968
     type: comment
   - description: ""
-    timestamp: 29.456
+    timestamp: 27.127
     type: comment
-    isPauseAfter: true
   - description: ""
-    timestamp: 42.162
+    timestamp: 28.763
     type: comment
   - description: ""
-    timestamp: 43.766
+    timestamp: 30.552
     type: comment
   - description: ""
-    timestamp: 45.469
+    timestamp: 32.289
     type: comment
   - description: ""
-    timestamp: 47.138
+    timestamp: 34.049
     type: comment
   - description: ""
-    timestamp: 48.804
+    timestamp: 35.591
     type: comment
   - description: ""
-    timestamp: 50.311
+    timestamp: 37.33
     type: comment
   - description: ""
-    timestamp: 52.2
+    timestamp: 39.006
     type: comment
   - description: ""
-    timestamp: 54.354
+    timestamp: 40.733
     type: comment
   - description: ""
-    timestamp: 56.085
+    timestamp: 42.355
     type: comment
   - description: ""
-    timestamp: 57.596
+    timestamp: 44.069
     type: comment
   - description: ""
-    timestamp: 59.338
+    timestamp: 45.588
     type: comment
   - description: ""
-    timestamp: 60.853
+    timestamp: 47.659
     type: comment
   - description: ""
-    timestamp: 62.374
+    timestamp: 49.318
     type: comment
   - description: ""
-    timestamp: 69.907
+    timestamp: 50.978
     type: comment
   - description: ""
-    timestamp: 71.421
+    timestamp: 52.777
     type: comment
   - description: ""
-    timestamp: 73.739
+    timestamp: 54.428
     type: comment
   - description: ""
-    timestamp: 75.392
+    timestamp: 56.444
     type: comment
   - description: ""
-    timestamp: 77.118
+    timestamp: 57.948
     type: comment
   - description: ""
-    timestamp: 78.772
+    timestamp: 59.799
     type: comment
   - description: ""
-    timestamp: 80.283
+    timestamp: 61.378
     type: comment
   - description: ""
-    timestamp: 81.98
+    timestamp: 62.898
     type: comment
   - description: ""
-    timestamp: 83.953
+    timestamp: 64.434
     type: comment
   - description: ""
-    timestamp: 85.851
+    timestamp: 67.329
     type: comment
   - description: ""
-    timestamp: 87.524
+    timestamp: 69.065
     type: comment
   - description: ""
-    timestamp: 89.19
+    timestamp: 70.751
     type: comment
   - description: ""
-    timestamp: 90.71
+    timestamp: 72.749
     type: comment
   - description: ""
-    timestamp: 92.506
+    timestamp: 74.354
     type: comment
   - description: ""
-    timestamp: 94.141
+    timestamp: 76.105
     type: comment
   - description: ""
-    timestamp: 95.652
+    timestamp: 77.665
     type: comment
   - description: ""
-    timestamp: 97.326
+    timestamp: 79.251
     type: comment
   - description: ""
-    timestamp: 99.029
+    timestamp: 80.828
     type: comment
   - description: ""
-    timestamp: 101.05
+    timestamp: 82.389
     type: comment
   - description: ""
-    timestamp: 103.283
+    timestamp: 84.652
     type: comment
   - description: ""
-    timestamp: 104.801
+    timestamp: 86.784
     type: comment
   - description: ""
-    timestamp: 106.433
+    timestamp: 88.312
     type: comment
   - description: ""
-    timestamp: 110.087
+    timestamp: 90.114
     type: comment
   - description: ""
-    timestamp: 122.624
+    timestamp: 91.741
     type: comment
   - description: ""
-    timestamp: 124.761
+    timestamp: 93.302
     type: comment
   - description: ""
-    timestamp: 126.315
+    timestamp: 94.86
     type: comment
   - description: ""
-    timestamp: 128.13
+    timestamp: 96.92
     type: comment
   - description: ""
-    timestamp: 130.869
+    timestamp: 99.082
     type: comment
   - description: ""
-    timestamp: 132.637
+    timestamp: 100.641
     type: comment
   - description: ""
-    timestamp: 134.316
+    timestamp: 103.347
     type: comment
   - description: ""
-    timestamp: 135.906
+    timestamp: 104.911
     type: comment
   - description: ""
-    timestamp: 137.43
+    timestamp: 106.416
     type: comment
   - description: ""
-    timestamp: 138.939
+    timestamp: 108.127
     type: comment
   - description: ""
-    timestamp: 140.954
+    timestamp: 109.694
     type: comment
   - description: ""
-    timestamp: 149.927
+    timestamp: 111.402
     type: comment
   - description: ""
-    timestamp: 152.962
+    timestamp: 113.512
     type: comment
   - description: ""
-    timestamp: 154.47
+    timestamp: 115.23
     type: comment
   - description: ""
-    timestamp: 156.34
+    timestamp: 116.935
     type: comment
   - description: ""
-    timestamp: 159.165
+    timestamp: 118.674
     type: comment
   - description: ""
-    timestamp: 160.815
+    timestamp: 120.407
     type: comment
   - description: ""
-    timestamp: 162.318
+    timestamp: 122.566
     type: comment
   - description: ""
-    timestamp: 164.04
-    type: comment
-  - description: ""
-    timestamp: 165.568
-    type: comment
-  - description: ""
-    timestamp: 167.172
-    type: comment
-  - description: ""
-    timestamp: 169.902
-    type: comment
-  - description: ""
-    timestamp: 171.705
-    type: comment
-  - description: ""
-    timestamp: 173.469
-    type: comment
-  - description: ""
-    timestamp: 174.987
+    timestamp: 124.225
     type: comment

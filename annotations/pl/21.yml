@@ -2,100 +2,116 @@ annotations:
   - description: ""
     timestamp: 0
     type: comment
+    reason: "beforeTab: views/index|jade, null"
   - description: ""
-    timestamp: 0
+    timestamp: 2.563
     type: comment
-    isPauseAfter: true
+    reason: "beforeTab: app/auth|js, views/index|jade"
   - description: ""
-    timestamp: 2.863
+    timestamp: 3.863
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 4.163
+    timestamp: 16.187
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 16.487
+    timestamp: 19.082
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 19.382
+    timestamp: 30.474
     type: comment
+    reason: "beforeTab: views/login|jade, app/auth|js"
   - description: ""
-    timestamp: 30.257
+    timestamp: 31.774
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 32.074
+    timestamp: 84.386
     type: comment
-    isPauseAfter: true
+    reason: "beforeTab: app/auth|js, views/login|jade"
   - description: ""
-    timestamp: 84.686
+    timestamp: 85.686
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 85.986
+    timestamp: 87.553
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 87.853
+    timestamp: 89.666
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 89.966
+    timestamp: 94.205
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 94.505
+    timestamp: 122.721
     type: comment
+    reason: "beforeTab: views/index|jade, app/auth|js"
   - description: ""
-    timestamp: 123.021
+    timestamp: 124.021
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 124.321
+    timestamp: 138.539
     type: comment
-    isPauseAfter: true
+    reason: "beforeTab: app/auth|js, views/index|jade"
   - description: ""
-    timestamp: 138.839
+    timestamp: 139.839
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 140.139
+    timestamp: 142.95
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 143.25
+    timestamp: 155.289
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 155.589
+    timestamp: 162.544
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 162.844
+    timestamp: 164.995
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 165.295
+    timestamp: 179.52
     type: comment
+    reason: "beforeTab: index|js, app/auth|js"
   - description: ""
-    timestamp: 179.82
+    timestamp: 180.82
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 181.12
+    timestamp: 183.171
     type: comment
-    isPauseAfter: true
+    reason: afterTab
   - description: ""
-    timestamp: 183.471
+    timestamp: 193.717
     type: comment
-    isPauseAfter: true
+    reason: "beforeTab: package|json, console"
   - description: ""
-    timestamp: 194.017
+    timestamp: 195.017
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 195.317
+    timestamp: 209.764
     type: comment
-    isPauseAfter: true
+    reason: "beforeTab: index|js, package|json"
   - description: ""
-    timestamp: 210.064
+    timestamp: 211.064
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 211.364
+    timestamp: 217.545
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 217.845
+    timestamp: 224.534
     type: comment
-  - description: ""
-    timestamp: 224.834
-    type: comment
+    reason: last

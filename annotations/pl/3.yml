@@ -2,16 +2,16 @@ annotations:
   - description: ""
     timestamp: 0
     type: comment
+    reason: "beforeTab: index|js, null"
   - description: ""
-    timestamp: 0
+    timestamp: 5.156
     type: comment
-    isPauseAfter: true
+    reason: "longPause: 6455"
   - description: ""
-    timestamp: 5.456
+    timestamp: 9.045
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 9.345
+    timestamp: 12.998
     type: comment
-  - description: ""
-    timestamp: 13.298
-    type: comment
+    reason: last

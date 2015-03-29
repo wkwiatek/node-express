@@ -2,311 +2,188 @@ annotations:
   - description: ""
     timestamp: 0
     type: comment
+    reason: "beforeTab: public/chat|js, null"
   - description: ""
-    timestamp: 0
+    timestamp: 6.655
     type: comment
-    isPauseAfter: true
+    reason: "longPause: 7952"
   - description: ""
-    timestamp: 6.955
+    timestamp: 14.079
     type: comment
+    reason: "beforeTab: app/controller|js, public/chat|js"
   - description: ""
-    timestamp: 14.379
+    timestamp: 15.379
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 15.679
+    timestamp: 44.925
     type: comment
-    isPauseAfter: true
+    reason: "beforeTab: app/router|js, app/controller|js"
   - description: ""
-    timestamp: 18.379
+    timestamp: 46.225
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 20.06
+    timestamp: 47.756
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 21.714
+    timestamp: 49.338
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 23.385
+    timestamp: 54.783
     type: comment
+    reason: "beforeTab: app/controller|js, app/router|js"
   - description: ""
-    timestamp: 24.951
+    timestamp: 56.083
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 27.311
+    timestamp: 57.654
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 28.823
+    timestamp: 59.708
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 31.154
+    timestamp: 62.147
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 33.787
+    timestamp: 67.209
     type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
   - description: ""
-    timestamp: 37.219
+    timestamp: 68.509
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 38.739
+    timestamp: 71.954
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 40.752
+    timestamp: 75.623
     type: comment
+    reason: "beforeTab: app/controller|js, app/router|js"
   - description: ""
-    timestamp: 42.444
+    timestamp: 76.923
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 45.225
+    timestamp: 80.949
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 46.525
+    timestamp: 83.737
     type: comment
-    isPauseAfter: true
+    reason: afterTab
   - description: ""
-    timestamp: 48.035
+    timestamp: 88.737
     type: comment
+    reason: "beforeTab: app/controller|js, app/router|js"
   - description: ""
-    timestamp: 49.554
+    timestamp: 90.037
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 51.292
+    timestamp: 91.772
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 53.335
+    timestamp: 93.825
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 55.083
+    timestamp: 99.037
     type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
   - description: ""
-    timestamp: 56.383
+    timestamp: 100.337
     type: comment
-    isPauseAfter: true
+    reason: afterTab
   - description: ""
-    timestamp: 57.933
+    timestamp: 103.638
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 60.008
+    timestamp: 106.339
     type: comment
+    reason: "beforeTab: app/controller|js, app/router|js"
   - description: ""
-    timestamp: 61.683
+    timestamp: 107.639
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 63.237
+    timestamp: 109.272
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 64.749
+    timestamp: 114.979
     type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
   - description: ""
-    timestamp: 67.509
+    timestamp: 116.279
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 68.809
+    timestamp: 125.027
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 72.001
+    timestamp: 130.626
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 74.771
+    timestamp: 139.742
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 76.934
+    timestamp: 144.729
     type: comment
+    reason: "beforeTab: app/chat|js, app/router|js"
   - description: ""
-    timestamp: 77.223
+    timestamp: 146.029
     type: comment
-    isPauseAfter: true
+    reason: afterTab
   - description: ""
-    timestamp: 78.864
+    timestamp: 148.471
     type: comment
+    reason: "beforeTab: app/controller|js, app/chat|js"
   - description: ""
-    timestamp: 81.079
+    timestamp: 149.771
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 82.737
+    timestamp: 152.542
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 84.037
+    timestamp: 162.27
     type: comment
-    isPauseAfter: true
+    reason: "longPause: 7984"
   - description: ""
-    timestamp: 85.767
+    timestamp: 165.632
     type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
   - description: ""
-    timestamp: 88.179
+    timestamp: 166.932
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 90.043
+    timestamp: 185.066
     type: comment
+    reason: movement
   - description: ""
-    timestamp: 90.337
+    timestamp: 187
     type: comment
-    isPauseAfter: true
+    reason: movement
   - description: ""
-    timestamp: 92.072
+    timestamp: 189.327
     type: comment
+    reason: largeJump
   - description: ""
-    timestamp: 94.041
+    timestamp: 195.326
     type: comment
-  - description: ""
-    timestamp: 96.211
-    type: comment
-  - description: ""
-    timestamp: 99.337
-    type: comment
-  - description: ""
-    timestamp: 100.637
-    type: comment
-    isPauseAfter: true
-  - description: ""
-    timestamp: 103.938
-    type: comment
-  - description: ""
-    timestamp: 105.472
-    type: comment
-  - description: ""
-    timestamp: 107.645
-    type: comment
-  - description: ""
-    timestamp: 107.939
-    type: comment
-    isPauseAfter: true
-  - description: ""
-    timestamp: 109.572
-    type: comment
-  - description: ""
-    timestamp: 111.325
-    type: comment
-  - description: ""
-    timestamp: 112.889
-    type: comment
-  - description: ""
-    timestamp: 115.279
-    type: comment
-  - description: ""
-    timestamp: 116.579
-    type: comment
-    isPauseAfter: true
-  - description: ""
-    timestamp: 118.375
-    type: comment
-  - description: ""
-    timestamp: 120.938
-    type: comment
-  - description: ""
-    timestamp: 122.454
-    type: comment
-  - description: ""
-    timestamp: 124.326
-    type: comment
-  - description: ""
-    timestamp: 125.848
-    type: comment
-  - description: ""
-    timestamp: 128.038
-    type: comment
-  - description: ""
-    timestamp: 129.605
-    type: comment
-  - description: ""
-    timestamp: 131.363
-    type: comment
-  - description: ""
-    timestamp: 132.972
-    type: comment
-  - description: ""
-    timestamp: 134.68
-    type: comment
-  - description: ""
-    timestamp: 136.208
-    type: comment
-  - description: ""
-    timestamp: 138.089
-    type: comment
-  - description: ""
-    timestamp: 139.741
-    type: comment
-  - description: ""
-    timestamp: 141.4
-    type: comment
-  - description: ""
-    timestamp: 142.914
-    type: comment
-  - description: ""
-    timestamp: 145.029
-    type: comment
-  - description: ""
-    timestamp: 146.329
-    type: comment
-    isPauseAfter: true
-  - description: ""
-    timestamp: 148.771
-    type: comment
-  - description: ""
-    timestamp: 150.071
-    type: comment
-    isPauseAfter: true
-  - description: ""
-    timestamp: 152.842
-    type: comment
-  - description: ""
-    timestamp: 154.586
-    type: comment
-  - description: ""
-    timestamp: 162.57
-    type: comment
-  - description: ""
-    timestamp: 164.192
-    type: comment
-  - description: ""
-    timestamp: 165.932
-    type: comment
-  - description: ""
-    timestamp: 167.232
-    type: comment
-    isPauseAfter: true
-  - description: ""
-    timestamp: 169.028
-    type: comment
-  - description: ""
-    timestamp: 173.003
-    type: comment
-  - description: ""
-    timestamp: 174.581
-    type: comment
-  - description: ""
-    timestamp: 176.403
-    type: comment
-  - description: ""
-    timestamp: 178.02
-    type: comment
-  - description: ""
-    timestamp: 179.704
-    type: comment
-  - description: ""
-    timestamp: 181.948
-    type: comment
-  - description: ""
-    timestamp: 183.587
-    type: comment
-  - description: ""
-    timestamp: 185.366
-    type: comment
-  - description: ""
-    timestamp: 187.258
-    type: comment
-  - description: ""
-    timestamp: 189.224
-    type: comment
-  - description: ""
-    timestamp: 190.743
-    type: comment
-  - description: ""
-    timestamp: 192.383
-    type: comment
-  - description: ""
-    timestamp: 193.938
-    type: comment
-  - description: ""
-    timestamp: 195.623
-    type: comment
+    reason: last

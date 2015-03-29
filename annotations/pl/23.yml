@@ -2,44 +2,28 @@ annotations:
   - description: ""
     timestamp: 0
     type: comment
+    reason: "beforeTab: app/router|js, null"
   - description: ""
-    timestamp: 0
+    timestamp: 2.756
     type: comment
-    isPauseAfter: true
+    reason: afterTab
   - description: ""
-    timestamp: 1.756
+    timestamp: 18.34
     type: comment
+    reason: "beforeTab: package|json, console"
   - description: ""
-    timestamp: 3.056
+    timestamp: 19.64
     type: comment
-    isPauseAfter: true
+    reason: afterTab
   - description: ""
-    timestamp: 4.603
+    timestamp: 21.932
     type: comment
+    reason: "beforeTab: index|js, package|json"
   - description: ""
-    timestamp: 6.191
+    timestamp: 23.232
     type: comment
+    reason: afterTab
   - description: ""
-    timestamp: 7.759
+    timestamp: 23.872
     type: comment
-  - description: ""
-    timestamp: 9.275
-    type: comment
-  - description: ""
-    timestamp: 18.64
-    type: comment
-  - description: ""
-    timestamp: 19.94
-    type: comment
-    isPauseAfter: true
-  - description: ""
-    timestamp: 22.232
-    type: comment
-  - description: ""
-    timestamp: 23.532
-    type: comment
-    isPauseAfter: true
-  - description: ""
-    timestamp: 24.172
-    type: comment
-    isPauseAfter: true
+    reason: afterTab

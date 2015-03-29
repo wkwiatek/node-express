@@ -7,12 +7,16 @@
   visible: true
   iterations:
     -
-      title: "Iteracja 1"
+      title: "Iteracja 1.1"
       status: "available"
       tasks:
         -
           title: "Tasks 1"
           url: "http://wkwiatek.github.io/node-express/pl_task1.html"
+        -
+          title: "Tasks 2"
+          url: "http://wkwiatek.github.io/node-express/pl_task2.html"
+
       materials:
         -
           title: '1. Node.js server'
@@ -38,6 +42,19 @@
           title: '6. Static resources'
           material: '550daa643340f578180e990b'
           annotations: !include ./annotations/pl/6.yml
+
+    -
+      title: "Iteracja 1.2"
+      status: 'available'
+      tasks:
+        -
+          title: "Tasks 3"
+          url: "http://wkwiatek.github.io/node-express/pl_task3.html"
+        -
+          title: "Tasks 4"
+          url: "http://wkwiatek.github.io/node-express/pl_task4.html"
+
+      materials:
         -
           title: '7. Middleware and static resources'
           material: '550daa643340f578180e990c'
@@ -66,6 +83,20 @@
           title: '13. Callbacks'
           material: '550daa643340f578180e9916'
           annotations: !include ./annotations/pl/13.yml
+    -
+      title: "Iteracja 1.3"
+      status: 'available'
+      tasks:
+        -
+          title: "Tasks 5"
+          url: "http://wkwiatek.github.io/node-express/pl_task5.html"
+        -
+          title: "Tasks 6"
+          url: "http://wkwiatek.github.io/node-express/pl_task6.html"
+        -
+          title: "Tasks 7"
+          url: "http://wkwiatek.github.io/node-express/pl_task7.html"
+      materials:
         -
           title: '14. Promises'
           material: '550daa643340f578180e9917'
@@ -91,9 +122,12 @@
           material: '550daa643340f578180e991c'
           annotations: !include ./annotations/pl/19.yml
     -
-      title: "Iteracja 2"
+      title: "Iteracja 2.1"
       status: "available"
-      tasks: []
+      tasks:
+        -
+          title: "Tasks 8"
+          url: "http://wkwiatek.github.io/node-express/pl_task8.html"
       materials:
         -
           title: 'Video 20'
@@ -103,6 +137,14 @@
           title: 'Video 21'
           material: '550daa643340f578180e991f'
           annotations: !include ./annotations/pl/21.yml
+    -
+      title: "Iteracja 2.2"
+      status: 'available'
+      tasks:
+        -
+          title: "Tasks 9"
+          url: "http://wkwiatek.github.io/node-express/pl_task9.html"
+      materials:
         -
           title: 'Video 1'
           material: '5517abe566a6815069ca3a54'
@@ -120,39 +162,50 @@
           material: '5517abe566a6815069ca3a57'
           annotations: !include ./annotations/pl/25.yml
         -
-          title: 'Video 4'
+          title: 'Video 5'
           material: '5517ad3066a6815069ca3a60'
           annotations: !include ./annotations/pl/26.yml
+    -
+      title: "Iteracja 2.3"
+      status: 'available'
+      tasks:
         -
-          title: 'Video 5'
+          title: "Tasks 10"
+          url: "http://wkwiatek.github.io/node-express/pl_task10.html"
+        -
+          title: "Tasks 11"
+          url: "http://wkwiatek.github.io/node-express/pl_task11.html"
+      materials:
+        -
+          title: 'Video 6'
           material: '5517b48366a6815069ca3a6a'
           annotations: !include ./annotations/pl/27.yml
         -
-          title: 'Video 6'
+          title: 'Video 7'
           material: '5517b4c066a6815069ca3a6b'
           annotations: !include ./annotations/pl/28.yml
         -
-          title: 'Video 7'
+          title: 'Video 8'
           material: '5517bf7e88a13e257751d53a'
           annotations: !include ./annotations/pl/29.yml
         -
-          title: 'Video 8'
+          title: 'Video 9'
           material: '5517bfa988a13e257751d53b'
           annotations: !include ./annotations/pl/30.yml
         -
-          title: 'Video 9'
+          title: 'Video 10'
           material: '5517b73766a6815069ca3a74'
           annotations: !include ./annotations/pl/31.yml
         -
-          title: 'Video 10'
+          title: 'Video 11'
           material: '5517b78366a6815069ca3a75'
           annotations: !include ./annotations/pl/32.yml
         -
-          title: 'Video 11'
+          title: 'Video 12'
           material: '5517b7f8f054a0bd72c56d07'
           annotations: !include ./annotations/pl/33.yml
         -
-          title: 'Video 12'
+          title: 'Video 13'
           material: '5517b807f054a0bd72c56d08'
           annotations: !include ./annotations/pl/34.yml
 

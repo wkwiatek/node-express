@@ -16,7 +16,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 33.398
+    timestamp: 22.84
     type: comment
     reason: "beforeTab: views/index|jade, index|js"
   - description: ""

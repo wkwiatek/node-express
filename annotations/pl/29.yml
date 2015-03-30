@@ -8,15 +8,11 @@ annotations:
     type: comment
     reason: "longPause: 7952"
   - description: ""
-    timestamp: 14.079
-    type: comment
-    reason: "beforeTab: app/controller|js, public/chat|js"
-  - description: ""
     timestamp: 15.379
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 44.925
+    timestamp: 43.739
     type: comment
     reason: "beforeTab: app/router|js, app/controller|js"
   - description: ""
@@ -32,7 +28,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 54.783
+    timestamp: 54.592
     type: comment
     reason: "beforeTab: app/controller|js, app/router|js"
   - description: ""
@@ -52,7 +48,7 @@ annotations:
     type: comment
     reason: largeJump
   - description: ""
-    timestamp: 67.209
+    timestamp: 65.255
     type: comment
     reason: "beforeTab: app/router|js, app/controller|js"
   - description: ""
@@ -64,7 +60,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 75.623
+    timestamp: 76.094
     type: comment
     reason: "beforeTab: app/controller|js, app/router|js"
   - description: ""
@@ -76,11 +72,15 @@ annotations:
     type: comment
     reason: movement
   - description: ""
+    timestamp: 82.989
+    type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
+  - description: ""
     timestamp: 83.737
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 88.737
+    timestamp: 89.434
     type: comment
     reason: "beforeTab: app/controller|js, app/router|js"
   - description: ""
@@ -96,7 +96,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 99.037
+    timestamp: 96.784
     type: comment
     reason: "beforeTab: app/router|js, app/controller|js"
   - description: ""
@@ -108,7 +108,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 106.339
+    timestamp: 107.139
     type: comment
     reason: "beforeTab: app/controller|js, app/router|js"
   - description: ""
@@ -120,7 +120,7 @@ annotations:
     type: comment
     reason: largeJump
   - description: ""
-    timestamp: 114.979
+    timestamp: 113.089
     type: comment
     reason: "beforeTab: app/router|js, app/controller|js"
   - description: ""
@@ -140,17 +140,13 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 144.729
+    timestamp: 144.361
     type: comment
     reason: "beforeTab: app/chat|js, app/router|js"
   - description: ""
     timestamp: 146.029
     type: comment
     reason: afterTab
-  - description: ""
-    timestamp: 148.471
-    type: comment
-    reason: "beforeTab: app/controller|js, app/chat|js"
   - description: ""
     timestamp: 149.771
     type: comment
@@ -164,7 +160,7 @@ annotations:
     type: comment
     reason: "longPause: 7984"
   - description: ""
-    timestamp: 165.632
+    timestamp: 166.328
     type: comment
     reason: "beforeTab: app/router|js, app/controller|js"
   - description: ""

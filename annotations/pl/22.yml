@@ -8,7 +8,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 12.084
+    timestamp: 9.491
     type: comment
     reason: "beforeTab: package|json, console"
   - description: ""
@@ -16,7 +16,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 37.656
+    timestamp: 29.064
     type: comment
     reason: "beforeTab: index|js, package|json"
   - description: ""
@@ -64,7 +64,7 @@ annotations:
     type: comment
     reason: "longPause: 7243"
   - description: ""
-    timestamp: 149.055
+    timestamp: 142.523
     type: comment
     reason: "beforeTab: app/router|js, app/chat|js"
   - description: ""
@@ -111,10 +111,6 @@ annotations:
     timestamp: 264.587
     type: comment
     reason: "longPause: 7000"
-  - description: ""
-    timestamp: 266.536
-    type: comment
-    reason: "beforeTab: public/chat|js, views/chat|jade"
   - description: ""
     timestamp: 267.836
     type: comment

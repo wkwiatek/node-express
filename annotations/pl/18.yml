@@ -8,7 +8,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 20.296
+    timestamp: 20.658
     type: comment
     reason: "beforeTab: index|js, console"
   - description: ""
@@ -16,17 +16,13 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 27.325
+    timestamp: 23.578
     type: comment
     reason: "beforeTab: console, index|js"
   - description: ""
     timestamp: 28.625
     type: comment
     reason: afterTab
-  - description: ""
-    timestamp: 32.759
-    type: comment
-    reason: "beforeTab: package|json, console"
   - description: ""
     timestamp: 34.059
     type: comment
@@ -36,7 +32,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 77.952
+    timestamp: 74.118
     type: comment
     reason: "beforeTab: index|js, package|json"
   - description: ""

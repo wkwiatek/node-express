@@ -12,7 +12,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 17.92
+    timestamp: 15.43
     type: comment
     reason: "beforeTab: app/getSongs|js, index|js"
   - description: ""
@@ -24,7 +24,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 34.908
+    timestamp: 34.64
     type: comment
     reason: "beforeTab: index|js, app/getSongs|js"
   - description: ""
@@ -48,7 +48,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 70.375
+    timestamp: 69.776
     type: comment
     reason: "beforeTab: app/getSongs|js, index|js"
   - description: ""
@@ -56,9 +56,9 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 80.98
+    timestamp: 81.198
     type: comment
-    reason: "beforeTab: index|js, app/getSongs|js"
+    reason: movement
   - description: ""
     timestamp: 82.28
     type: comment
@@ -72,7 +72,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 90.734
+    timestamp: 91.47
     type: comment
     reason: "beforeTab: app/getSongs|js, index|js"
   - description: ""
@@ -80,7 +80,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 99.203
+    timestamp: 95.664
     type: comment
     reason: "beforeTab: index|js, app/getSongs|js"
   - description: ""
@@ -112,7 +112,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 132.647
+    timestamp: 133.529
     type: comment
     reason: "beforeTab: app/responseTime|js, index|js"
   - description: ""
@@ -124,7 +124,7 @@ annotations:
     type: comment
     reason: largeJump
   - description: ""
-    timestamp: 145.99
+    timestamp: 143.933
     type: comment
     reason: "beforeTab: index|js, app/responseTime|js"
   - description: ""
@@ -144,10 +144,6 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 188.583
-    type: comment
-    reason: "beforeTab: app/router|js, index|js"
-  - description: ""
     timestamp: 189.883
     type: comment
     reason: afterTab
@@ -156,7 +152,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 210.967
+    timestamp: 209.147
     type: comment
     reason: "beforeTab: index|js, app/router|js"
   - description: ""
@@ -168,11 +164,15 @@ annotations:
     type: comment
     reason: movement
   - description: ""
+    timestamp: 216.224
+    type: comment
+    reason: "beforeTab: app/router|js, index|js"
+  - description: ""
     timestamp: 216.324
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 218.561
+    timestamp: 219.276
     type: comment
     reason: "beforeTab: index|js, app/router|js"
   - description: ""
@@ -184,7 +184,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 226.496
+    timestamp: 226.383
     type: comment
     reason: "beforeTab: app/router|js, index|js"
   - description: ""
@@ -208,7 +208,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 249.781
+    timestamp: 248.376
     type: comment
     reason: "beforeTab: index|js, app/router|js"
   - description: ""
@@ -236,7 +236,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 280.779
+    timestamp: 281.558
     type: comment
     reason: "beforeTab: app/router|js, index|js"
   - description: ""

@@ -8,17 +8,13 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 18.34
+    timestamp: 10.791
     type: comment
     reason: "beforeTab: package|json, console"
   - description: ""
     timestamp: 19.64
     type: comment
     reason: afterTab
-  - description: ""
-    timestamp: 21.932
-    type: comment
-    reason: "beforeTab: index|js, package|json"
   - description: ""
     timestamp: 23.232
     type: comment

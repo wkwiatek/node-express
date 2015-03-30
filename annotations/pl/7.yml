@@ -28,15 +28,11 @@ annotations:
     type: comment
     reason: "longPause: 13717"
   - description: ""
-    timestamp: 46.843
-    type: comment
-    reason: "beforeTab: public/styles|css, index|js"
-  - description: ""
     timestamp: 48.143
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 58.055
+    timestamp: 57.512
     type: comment
     reason: "beforeTab: public/index|html, public/styles|css"
   - description: ""

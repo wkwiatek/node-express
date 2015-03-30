@@ -28,7 +28,7 @@ annotations:
     type: comment
     reason: movement
   - description: ""
-    timestamp: 120.455
+    timestamp: 102.049
     type: comment
     reason: "beforeTab: views/chat|jade, app/chat|js"
   - description: ""
@@ -36,7 +36,7 @@ annotations:
     type: comment
     reason: afterTab
   - description: ""
-    timestamp: 137.583
+    timestamp: 135.129
     type: comment
     reason: "beforeTab: public/chat|js, views/chat|jade"
   - description: ""

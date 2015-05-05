@@ -1,250 +1,96 @@
----
-  title: "Devmeeting Node+Express"
-  name: "nodeExpress"
-  image: "https://wkwiatek.github.io/node-express/images/intro.png"
-  baseSlide: "550d6531fb2f867818a1b811"
-  intro: "550db814fbb1d1d745d61ba1"
-  visible: true
-  iterations:
-    -
-      title: "Iteracja 1.1"
-      status: "available"
-      tasks:
-        -
-          title: "Tasks 1"
-          url: "https://wkwiatek.github.io/node-express/pl_task1.html"
-        -
-          title: "Tasks 2"
-          url: "https://wkwiatek.github.io/node-express/pl_task2.html"
+title: Devmeeting Node+Express
+name: devmeetingNodeExpress
+image: 'https://wkwiatek.github.io/node-express/images/intro.png'
+baseSlide: 550d6531fb2f867818a1b811
+intro: 550db814fbb1d1d745d61ba1
+visible: false
+iterations:
+  - title: Iteracja 1
+    tasks:
+      - title: Tasks 1
+        url: 'https://wkwiatek.github.io/node-express/pl_task1.html'
+    materials:
+      - title: Node.js server
+        material: 550daa643340f578180e9906
+        annotations: 55187314efa2fa2b6adc8ad4
+      - title: Express server
+        material: 550daa643340f578180e9907
+        annotations: 55187314efa2fa2b6adc8aec
+      - title: Express server shorthand
+        material: 550daa643340f578180e9908
+        annotations: 55187314efa2fa2b6adc8b03
+      - title: Respond with JSON
+        material: 550daa643340f578180e9909
+        annotations: 55187314efa2fa2b6adc8b08
+      - title: Middleware
+        material: 550daa643340f578180e990a
+        annotations: 55187314efa2fa2b6adc8b0f
+      - title: Static resources
+        material: 550daa643340f578180e990b
+        annotations: 55187314efa2fa2b6adc8b1e
+      - title: Middleware and static resources
+        material: 550daa643340f578180e990c
+        annotations: 55187314efa2fa2b6adc8b3f
 
-      materials:
-        -
-          title: '1. Node.js server'
-          material: '550daa643340f578180e9906'
-          annotations: !include ./annotations/pl/1.yml
-        -
-          title: '2. Express server'
-          material: '550daa643340f578180e9907'
-          annotations: !include ./annotations/pl/2.yml
-        -
-          title: '3. Express server shorthand'
-          material: '550daa643340f578180e9908'
-          annotations: !include ./annotations/pl/3.yml
-        -
-          title: '4. Respond with JSON'
-          material: '550daa643340f578180e9909'
-          annotations: !include ./annotations/pl/4.yml
-        -
-          title: '5. Middleware'
-          material: '550daa643340f578180e990a'
-          annotations: !include ./annotations/pl/5.yml
-        -
-          title: '6. Static resources'
-          material: '550daa643340f578180e990b'
-          annotations: !include ./annotations/pl/6.yml
+  - title: Iteracja 2
+    tasks:
+      - title: Tasks 2
+        url: 'https://wkwiatek.github.io/node-express/pl_task3.html'
+    materials:
 
-    -
-      title: "Iteracja 1.2"
-      status: 'available'
-      tasks:
-        -
-          title: "Tasks 3"
-          url: "https://wkwiatek.github.io/node-express/pl_task3.html"
-        -
-          title: "Tasks 4"
-          url: "https://wkwiatek.github.io/node-express/pl_task4.html"
+      - title: jade
+        material: 550daa643340f578180e990d
+        annotations: 55187314efa2fa2b6adc8b4d
+      - title: jade - dynamic content
+        material: 550daa643340f578180e990e
+        annotations: 55187314efa2fa2b6adc8b67
+      - title: jade - loops
+        material: 550daa643340f578180e990f
+        annotations: 55187314efa2fa2b6adc8b6f
+      - title: Querying API
+        material: 550daa643340f578180e9911
+        annotations: 55187314efa2fa2b6adc8b80
+      - title: Request
+        material: 550daa643340f578180e9914
+        annotations: 55187314efa2fa2b6adc8b9b
+      - title: Callbacks
+        material: 550daa643340f578180e9916
+        annotations: 55187314efa2fa2b6adc8bad
 
-      materials:
-        -
-          title: '7. Middleware and static resources'
-          material: '550daa643340f578180e990c'
-          annotations: !include ./annotations/pl/7.yml
-        -
-          title: '8. jade'
-          material: '550daa643340f578180e990d'
-          annotations: !include ./annotations/pl/8.yml
-        -
-          title: '9. jade - dynamic content'
-          material: '550daa643340f578180e990e'
-          annotations: !include ./annotations/pl/9.yml
-        -
-          title: '10. jade - loops'
-          material: '550daa643340f578180e990f'
-          annotations: !include ./annotations/pl/10.yml
-        -
-          title: '11. Querying API'
-          material: '550daa643340f578180e9911'
-          annotations: !include ./annotations/pl/11.yml
-        -
-          title: '12. Request'
-          material: '550daa643340f578180e9914'
-          annotations: !include ./annotations/pl/12.yml
-        -
-          title: '13. Callbacks'
-          material: '550daa643340f578180e9916'
-          annotations: !include ./annotations/pl/13.yml
-    -
-      title: "Iteracja 1.3"
-      status: 'available'
-      tasks:
-        -
-          title: "Tasks 5"
-          url: "https://wkwiatek.github.io/node-express/pl_task5.html"
-        -
-          title: "Tasks 6"
-          url: "https://wkwiatek.github.io/node-express/pl_task6.html"
-        -
-          title: "Tasks 7"
-          url: "https://wkwiatek.github.io/node-express/pl_task7.html"
-      materials:
-        -
-          title: '14. Promises'
-          material: '550daa643340f578180e9917'
-          annotations: !include ./annotations/pl/14.yml
-        -
-          title: '15. Modules'
-          material: '550daa643340f578180e9918'
-          annotations: !include ./annotations/pl/15.yml
-        -
-          title: '16. Additional data in URL'
-          material: '550daa643340f578180e9919'
-          annotations: !include ./annotations/pl/16.yml
-        -
-          title: '17. More promises'
-          material: '550daa643340f578180e991a'
-          annotations: !include ./annotations/pl/17.yml
-        -
-          title: '18. Express session'
-          material: '550daa643340f578180e991b'
-          annotations: !include ./annotations/pl/18.yml
-        -
-          title: '19. Data in session'
-          material: '550daa643340f578180e991c'
-          annotations: !include ./annotations/pl/19.yml
-    -
-      title: "Iteracja 2.1"
-      status: "available"
-      tasks:
-        -
-          title: "Tasks 8"
-          url: "https://wkwiatek.github.io/node-express/pl_task8.html"
-      materials:
-        -
-          title: 'Video 20'
-          material: '550daa643340f578180e991e'
-          annotations: !include ./annotations/pl/20.yml
-        -
-          title: 'Video 21'
-          material: '550daa643340f578180e991f'
-          annotations: !include ./annotations/pl/21.yml
-    -
-      title: "Iteracja 2.2"
-      status: 'available'
-      tasks:
-        -
-          title: "Tasks 9"
-          url: "https://wkwiatek.github.io/node-express/pl_task9.html"
-      materials:
-        -
-          title: 'Video 1'
-          material: '5517abe566a6815069ca3a54'
-          annotations: !include ./annotations/pl/22.yml
-        -
-          title: 'Video 2'
-          material: '5517abe566a6815069ca3a55'
-          annotations: !include ./annotations/pl/23.yml
-        -
-          title: 'Video 3'
-          material: '5517abe566a6815069ca3a56'
-          annotations: !include ./annotations/pl/24.yml
-        -
-          title: 'Video 4'
-          material: '5517abe566a6815069ca3a57'
-          annotations: !include ./annotations/pl/25.yml
-        -
-          title: 'Video 5'
-          material: '5517ad3066a6815069ca3a60'
-          annotations: !include ./annotations/pl/26.yml
-    -
-      title: "Iteracja 2.3"
-      status: 'available'
-      tasks:
-        -
-          title: "Tasks 10"
-          url: "https://wkwiatek.github.io/node-express/pl_task10.html"
-        -
-          title: "Tasks 11"
-          url: "https://wkwiatek.github.io/node-express/pl_task11.html"
-      materials:
-        -
-          title: 'Video 6'
-          material: '5517b48366a6815069ca3a6a'
-          annotations: !include ./annotations/pl/27.yml
-        -
-          title: 'Video 7'
-          material: '5517b4c066a6815069ca3a6b'
-          annotations: !include ./annotations/pl/28.yml
-        -
-          title: 'Video 8'
-          material: '5517bf7e88a13e257751d53a'
-          annotations: !include ./annotations/pl/29.yml
-        -
-          title: 'Video 9'
-          material: '5517bfa988a13e257751d53b'
-          annotations: !include ./annotations/pl/30.yml
-        -
-          title: 'Video 10'
-          material: '5517b73766a6815069ca3a74'
-          annotations: !include ./annotations/pl/31.yml
-        -
-          title: 'Video 11'
-          material: '5517b78366a6815069ca3a75'
-          annotations: !include ./annotations/pl/32.yml
-        -
-          title: 'Video 12'
-          material: '5517b7f8f054a0bd72c56d07'
-          annotations: !include ./annotations/pl/33.yml
-        -
-          title: 'Video 13'
-          material: '5517b807f054a0bd72c56d08'
-          annotations: !include ./annotations/pl/34.yml
+  - title: Iteracja 3
+    tasks:
+      - title: Tasks 3
+        url: 'https://wkwiatek.github.io/node-express/pl_task5.html'
+    materials:
+      - title: 14. Promises
+        material: 550daa643340f578180e9917
+        annotations: 55187314efa2fa2b6adc8bcb
+      - title: 15. Modules
+        material: 550daa643340f578180e9918
+        annotations: 55187314efa2fa2b6adc8bf4
+      - title: 16. Additional data in URL
+        material: 550daa643340f578180e9919
+        annotations: 55187314efa2fa2b6adc8c35
+      - title: 17. More promises
+        material: 550daa643340f578180e991a
+        annotations: 55187314efa2fa2b6adc8c43
 
-          #'5517abe566a6815069ca3a55
-          #'5517abe566a6815069ca3a56
-          #'5517abe566a6815069ca3a57
-          #'5517ad3066a6815069ca3a60
-          #'5517b48366a6815069ca3a6a
-          #'5517b4c066a6815069ca3a6b
-          #-
-          #-
-          #'5517b73766a6815069ca3a74
-          #'5517b78366a6815069ca3a75
-          #'5517b7f8f054a0bd72c56d07
-          #'5517b807f054a0bd72c56d08
+  - title: Iteracja 4
+    tasks:
+      - title: Tasks 4
+        url: 'https://wkwiatek.github.io/node-express/pl_task8.html'
+    materials:
+      - title: 18. Express session
+        material: 550daa643340f578180e991b
+        annotations: 55187314efa2fa2b6adc8c67
+      - title: 19. Data in session
+        material: 550daa643340f578180e991c
+        annotations: 55187314efa2fa2b6adc8c82
+      - title: 20. Passport Local Strategy
+        material: 550daa643340f578180e991e
+        annotations: 55187314efa2fa2b6adc8c97
+      - title: 21. Logging in
+        material: 550daa643340f578180e991f
+        annotations: 55187314efa2fa2b6adc8ccb
 
-          #- 1 | 550daa643340f578180e9904
-          #+ 3  | 550daa643340f578180e9906
-          #+ 4 | 550daa643340f578180e9907
-          #5 - 550daa643340f578180e9908
-          #+ 6  | 550daa643340f578180e9909
-          #+ 7 | 550daa643340f578180e990a
-          #8 - 550daa643340f578180e990b
-          #+ 9  | 550daa643340f578180e990c
-          #+ 10 | 550daa643340f578180e990d
-          #11 - 550daa643340f578180e990e
-          #+ 12 | 550daa643340f578180e990f
-          #- 13 | 550daa643340f578180e9910
-          #14 - 550daa643340f578180e9911
-          #- 16 | 550daa643340f578180e9913
-          #17 - 550daa643340f578180e9914
-          #+ 19 | 550daa643340f578180e9916
-          #20 - 550daa643340f578180e9917
-          #+ 21 | 550daa643340f578180e9918
-          #+ 22 | 550daa643340f578180e9919
-          #23 - 550daa643340f578180e991a
-          #+ 24 | 550daa643340f578180e991b
-          #+ 25 | 550daa643340f578180e991c
-          #+ 27 | 550daa643340f578180e991e
-          #+ 28 | 550daa643340f578180e991f
-
-
+shouldRedirectToUnsafe: true

@@ -43,7 +43,7 @@ annotations:
     timestamp: 42.857
     type: comment
     reason: movement
-  - description: ""
+  - description: "Teraz getSongs zostało zmienione na funkcję wykorzystującą callback"
     timestamp: 48.217
     type: comment
     reason: movement
@@ -75,7 +75,7 @@ annotations:
     timestamp: 100.177
     type: comment
     reason: movement
-  - description: ""
+  - description: "Dzięki temu można poczekać na przychodzący request"
     timestamp: 114.357
     type: comment
     reason: "longPause: 12119"
@@ -99,7 +99,7 @@ annotations:
     timestamp: 184.164
     type: comment
     reason: movement
-  - description: ""
+  - description: "Przydatna będzie tutaj również funkcja pomocnicza"
     timestamp: 191.136
     type: comment
     reason: "longPause: 5425"

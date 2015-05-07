@@ -7,7 +7,7 @@ annotations:
     timestamp: 1.538
     type: comment
     reason: afterTab
-  - description: ""
+  - description: "Do sprawnego trzymania danych w sesji przydadzą się cookie-parser oraz express-session"
     timestamp: 20.658
     type: comment
     reason: "beforeTab: index|js, console"

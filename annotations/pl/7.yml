@@ -23,7 +23,7 @@ annotations:
     timestamp: 27.887
     type: comment
     reason: movement
-  - description: ""
+  - description: "Middleware działa na wszystkie requesty, również te po statyczne pliki"
     timestamp: 43.77
     type: comment
     reason: "longPause: 13717"
@@ -47,7 +47,7 @@ annotations:
     timestamp: 76.647
     type: comment
     reason: "longPause: 7051"
-  - description: ""
+  - description: "Teraz można odwoływać się do plików statycznych serwowanych przez express"
     timestamp: 80.209
     type: comment
     reason: last

@@ -11,7 +11,7 @@ annotations:
     timestamp: 16.047
     type: comment
     reason: "beforeTab: package|json, console"
-  - description: ""
+  - description: "Pobranie danych ułatwi biblioteka request"
     timestamp: 19.264
     type: comment
     reason: afterTab
@@ -47,7 +47,7 @@ annotations:
     timestamp: 68.263
     type: comment
     reason: movement
-  - description: ""
+  - description: "Składnia jest podobna, ale w zamian otrzymujemy dane zamiast strumienia"
     timestamp: 77.543
     type: comment
     reason: "longPause: 8255"

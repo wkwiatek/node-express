@@ -15,7 +15,7 @@ annotations:
     timestamp: 8.33
     type: comment
     reason: movement
-  - description: ""
+  - description: "Express umożliwia przypinanie middlewares do przychodzących żądań"
     timestamp: 12.738
     type: comment
     reason: movement
@@ -39,7 +39,7 @@ annotations:
     timestamp: 67.582
     type: comment
     reason: movement
-  - description: ""
+  - description: "Mają one dostęp zarówno do request jak i response"
     timestamp: 75.814
     type: comment
     reason: movement
@@ -47,7 +47,7 @@ annotations:
     timestamp: 87.244
     type: comment
     reason: "longPause: 7338"
-  - description: ""
+  - description: "Kluczowym jest jednak wywołanie callbacka po zakończeniu operacji"
     timestamp: 100.665
     type: comment
     reason: "longPause: 7901"

@@ -19,11 +19,11 @@ annotations:
     timestamp: 30.457
     type: comment
     reason: "beforeTab: views/login|jade, app/auth|js"
-  - description: ""
+  - description: "Tworzenie standardowego formularza logowania"
     timestamp: 31.774
     type: comment
     reason: afterTab
-  - description: ""
+  - description: "Istotne są nazwy pól: username oraz password"
     timestamp: 79.182
     type: comment
     reason: "beforeTab: app/auth|js, views/login|jade"
@@ -43,7 +43,7 @@ annotations:
     timestamp: 94.205
     type: comment
     reason: movement
-  - description: ""
+  - description: "Wpinany jest middleware od passporta do sprawdzenia użytkownika i w przypadku sukcesu wykonywany jest redirect"
     timestamp: 120.481
     type: comment
     reason: "beforeTab: views/index|jade, app/auth|js"
@@ -79,7 +79,7 @@ annotations:
     timestamp: 166.882
     type: comment
     reason: "beforeTab: index|js, app/auth|js"
-  - description: ""
+  - description: "Logout niszczy sesję passporta"
     timestamp: 180.82
     type: comment
     reason: afterTab
@@ -91,7 +91,7 @@ annotations:
     timestamp: 191.493
     type: comment
     reason: "beforeTab: package|json, console"
-  - description: ""
+  - description: "Do prawidłowego działania wymagany jest body-parser"
     timestamp: 195.017
     type: comment
     reason: afterTab

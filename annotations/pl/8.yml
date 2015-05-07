@@ -7,7 +7,7 @@ annotations:
     timestamp: 4.82
     type: comment
     reason: "longPause: 6115"
-  - description: ""
+  - description: "Jade jest jedną z zewnętrznych bibliotek do dynamicznych template'ów"
     timestamp: 11.836
     type: comment
     reason: "beforeTab: package|json, console"
@@ -23,7 +23,7 @@ annotations:
     timestamp: 43.268
     type: comment
     reason: afterTab
-  - description: ""
+  - description: "Składnia jade jest uproszczoną składnią html"
     timestamp: 59.694
     type: comment
     reason: "longPause: 5174"
@@ -31,7 +31,7 @@ annotations:
     timestamp: 67.004
     type: comment
     reason: "beforeTab: index|js, views/index|jade"
-  - description: ""
+  - description: "Zagnieżdżenie rozpoznawane jest po wcięciach"
     timestamp: 72.208
     type: comment
     reason: afterTab
@@ -47,11 +47,11 @@ annotations:
     timestamp: 87.781
     type: comment
     reason: movement
-  - description: ""
+  - description: "Expressa należy skonfigurować do współpracy z jade"
     timestamp: 100.489
     type: comment
     reason: movement
-  - description: ""
+  - description: "Oraz podać katalog z template'ami"
     timestamp: 111.189
     type: comment
     reason: largeJump
@@ -71,7 +71,7 @@ annotations:
     timestamp: 143.582
     type: comment
     reason: movement
-  - description: ""
+  - description: "Wykorzystanie konkretnego template'u sprowadza się do użycia metody render"
     timestamp: 155.113
     type: comment
     reason: "longPause: 7137"

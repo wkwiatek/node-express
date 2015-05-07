@@ -7,7 +7,7 @@ annotations:
     timestamp: 9.124
     type: comment
     reason: "beforeTab: app/getSongs|js, app/router|js"
-  - description: ""
+  - description: "query w request przechowuje wszystkie dane przesłane jako parametry GET"
     timestamp: 10.842
     type: comment
     reason: afterTab
@@ -47,7 +47,7 @@ annotations:
     timestamp: 81.003
     type: comment
     reason: movement
-  - description: ""
+  - description: "Params natomiast przechowuje dane wynikające bezpośrednio z URLa"
     timestamp: 83.793
     type: comment
     reason: last

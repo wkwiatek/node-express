@@ -23,15 +23,15 @@ annotations:
     timestamp: 35.423
     type: comment
     reason: movement
-  - description: ""
+  - description: "W NodeJS wykorzystujemy taką samą składnię JavaScript jak po stronie klienta"
     timestamp: 45.113
     type: comment
     reason: movement
-  - description: ""
+  - description: "Mamy jednak dostępny szereg wbudowanych bibliotek"
     timestamp: 56.41
     type: comment
     reason: movement
-  - description: ""
+  - description: "Jedną z nich jest http, która pozwala stworzyć serwer http"
     timestamp: 68.237
     type: comment
     reason: movement
@@ -43,7 +43,7 @@ annotations:
     timestamp: 78.476
     type: comment
     reason: movement
-  - description: ""
+  - description: "Callback zostanie wywołany po podłączeniu się do serwera na podanym porcie"
     timestamp: 85.146
     type: comment
     reason: movement
@@ -51,11 +51,11 @@ annotations:
     timestamp: 91.64
     type: comment
     reason: movement
-  - description: ""
+  - description: "Funkcja wywoływana jako callback przyjmuje dwa parametry: request oraz response"
     timestamp: 94.832
     type: comment
     reason: movement
-  - description: ""
+  - description: "Wywołanie end na response spowoduje wysłanie do klienta danych"
     timestamp: 103.669
     type: comment
     reason: "longPause: 5136"
@@ -71,7 +71,7 @@ annotations:
     timestamp: 116.149
     type: comment
     reason: movement
-  - description: ""
+  - description: "Raz wywołany end powoduje zamknięcie strumienia"
     timestamp: 120.153
     type: comment
     reason: movement
@@ -87,7 +87,7 @@ annotations:
     timestamp: 137.881
     type: comment
     reason: movement
-  - description: ""
+  - description: "W request są do dyspozycji dodatkowe dane takie jak np. url"
     timestamp: 143.551
     type: comment
     reason: last

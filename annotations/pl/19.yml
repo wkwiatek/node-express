@@ -11,7 +11,7 @@ annotations:
     timestamp: 44.754
     type: comment
     reason: movement
-  - description: ""
+  - description: "Property session zawiera informacje trzymane przez Express w sesji; można ją dowolnie rozszerzać"
     timestamp: 46.307
     type: comment
     reason: movement

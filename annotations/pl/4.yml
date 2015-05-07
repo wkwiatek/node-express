@@ -19,7 +19,7 @@ annotations:
     timestamp: 66.226
     type: comment
     reason: movement
-  - description: ""
+  - description: "Response można w prosty sposób wysłać jako application/json"
     timestamp: 73.184
     type: comment
     reason: last

@@ -27,7 +27,7 @@ annotations:
     timestamp: 32.009
     type: comment
     reason: "beforeTab: views/index|jade, index|js"
-  - description: ""
+  - description: "Do szablonu można przekazywać bardziej złożone struktury"
     timestamp: 37.143
     type: comment
     reason: afterTab
@@ -35,7 +35,7 @@ annotations:
     timestamp: 54.488
     type: comment
     reason: "longPause: 12794"
-  - description: ""
+  - description: "Można je później obsługiwać na kilka sposobów"
     timestamp: 81.211
     type: comment
     reason: "longPause: 11014"

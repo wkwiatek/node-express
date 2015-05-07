@@ -19,11 +19,11 @@ annotations:
     timestamp: 46.811
     type: comment
     reason: "longPause: 34339"
-  - description: ""
+  - description: "Do pobrania danych z zewnętrznego API skorzystamy ponownie z http"
     timestamp: 81.195
     type: comment
     reason: movement
-  - description: ""
+  - description: "Otrzymane w callbacku dane, to w tym przypadku strumień"
     timestamp: 92.965
     type: comment
     reason: movement
@@ -71,7 +71,7 @@ annotations:
     timestamp: 147.996
     type: comment
     reason: movement
-  - description: ""
+  - description: "Przychodzące asynchronicznie dane należy 'ręcznie' złączyć w odpowiedź"
     timestamp: 150.499
     type: comment
     reason: movement

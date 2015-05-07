@@ -7,11 +7,11 @@ annotations:
     timestamp: 8.879
     type: comment
     reason: "longPause: 10176"
-  - description: ""
+  - description: "Do zarządzania zależnościami będzie potrzebny npm"
     timestamp: 11.245
     type: comment
     reason: afterTab
-  - description: ""
+  - description: "Zależności trzymane będą w package.json, który utworzony zostanie przez npm init"
     timestamp: 23.085
     type: comment
     reason: "longPause: 6056"
@@ -27,7 +27,7 @@ annotations:
     timestamp: 34.771
     type: comment
     reason: afterTab
-  - description: ""
+  - description: "Express jest biblioteką zewnętrzną i jego doinstalowanie odbywa się przez npm install"
     timestamp: 45.763
     type: comment
     reason: "beforeTab: package|json, console"
@@ -39,7 +39,7 @@ annotations:
     timestamp: 64.797
     type: comment
     reason: movement
-  - description: ""
+  - description: "W pliku package.json pojawi się dodatkowe pole: dependencies"
     timestamp: 83.791
     type: comment
     reason: "beforeTab: index|js, package|json"
@@ -47,7 +47,7 @@ annotations:
     timestamp: 91.306
     type: comment
     reason: afterTab
-  - description: ""
+  - description: "Załączenie zewnętrznych modułów odbywa się w analogiczny sposób"
     timestamp: 114.091
     type: comment
     reason: "longPause: 5593"
@@ -83,7 +83,7 @@ annotations:
     timestamp: 173.562
     type: comment
     reason: movement
-  - description: ""
+  - description: "W przypadku expressa request obsługuje się na konkretny route"
     timestamp: 177.977
     type: comment
     reason: last

@@ -11,7 +11,7 @@ annotations:
     timestamp: 9.045
     type: comment
     reason: largeJump
-  - description: ""
+  - description: "Moduł http już nie jest wymagany"
     timestamp: 12.998
     type: comment
     reason: last

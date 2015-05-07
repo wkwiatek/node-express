@@ -23,7 +23,7 @@ annotations:
     timestamp: 20.889
     type: comment
     reason: movement
-  - description: ""
+  - description: "Do ominięcia callback hell przyda się biblioteka q"
     timestamp: 23.101
     type: comment
     reason: largeJump
@@ -55,7 +55,7 @@ annotations:
     timestamp: 84.938
     type: comment
     reason: largeJump
-  - description: ""
+  - description: "Dzięki niej możemy zamienić callbacki na wywołania funkcji 'then'"
     timestamp: 92.397
     type: comment
     reason: largeJump
@@ -79,7 +79,7 @@ annotations:
     timestamp: 115.396
     type: comment
     reason: movement
-  - description: ""
+  - description: "Z wywołań można stworzyć łańcuch"
     timestamp: 131.772
     type: comment
     reason: movement
@@ -95,7 +95,7 @@ annotations:
     timestamp: 153.938
     type: comment
     reason: movement
-  - description: ""
+  - description: "Request może zostać użyty z biblioteką q"
     timestamp: 160.788
     type: comment
     reason: largeJump
@@ -131,7 +131,7 @@ annotations:
     timestamp: 195.564
     type: comment
     reason: movement
-  - description: ""
+  - description: "Wtedy request zwraca promise"
     timestamp: 203.311
     type: comment
     reason: movement

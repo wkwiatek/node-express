@@ -7,7 +7,7 @@ annotations:
     timestamp: 9.057
     type: comment
     reason: "longPause: 10353"
-  - description: ""
+  - description: "Aplikacje NodeJS można dzielić na moduły"
     timestamp: 11.35
     type: comment
     reason: movement
@@ -39,7 +39,7 @@ annotations:
     timestamp: 52.58
     type: comment
     reason: movement
-  - description: ""
+  - description: "Ich załączanie jest analogiczne do bibliotek zewnętrznych"
     timestamp: 60.189
     type: comment
     reason: movement
@@ -151,7 +151,7 @@ annotations:
     timestamp: 203.768
     type: comment
     reason: movement
-  - description: ""
+  - description: "W modułach wykorzystywany jest Router"
     timestamp: 209.147
     type: comment
     reason: "beforeTab: index|js, app/router|js"
@@ -211,7 +211,7 @@ annotations:
     timestamp: 248.376
     type: comment
     reason: "beforeTab: index|js, app/router|js"
-  - description: ""
+  - description: "Umożliwia on eksport ścieżek bez przekazywania całego serwera jako parametr"
     timestamp: 251.081
     type: comment
     reason: afterTab

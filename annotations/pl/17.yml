@@ -67,7 +67,7 @@ annotations:
     timestamp: 78.185
     type: comment
     reason: movement
-  - description: ""
+  - description: "Biblioteka q umożliwia czekanie na kilka requestów"
     timestamp: 80.7
     type: comment
     reason: movement
@@ -83,7 +83,7 @@ annotations:
     timestamp: 90.536
     type: comment
     reason: movement
-  - description: ""
+  - description: "Funkcja all przyjmuje listę promisów jako argument"
     timestamp: 94.464
     type: comment
     reason: movement
@@ -103,7 +103,7 @@ annotations:
     timestamp: 128.343
     type: comment
     reason: "longPause: 7936"
-  - description: ""
+  - description: "Aby zobaczyć efekt wystarczy znacznie mniej danych, dlatego też rozstaną one zredukowane"
     timestamp: 142.959
     type: comment
     reason: movement

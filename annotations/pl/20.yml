@@ -31,7 +31,7 @@ annotations:
     timestamp: 33.484
     type: comment
     reason: movement
-  - description: ""
+  - description: "Wywoływany jest nowy moduł z przekazanym całym kontekstem aplikcji"
     timestamp: 42.873
     type: comment
     reason: "longPause: 7044"
@@ -47,11 +47,11 @@ annotations:
     timestamp: 90.177
     type: comment
     reason: afterTab
-  - description: ""
+  - description: "Passport zostanie użyty do uwierzytelniania użytkownika"
     timestamp: 92.396
     type: comment
     reason: movement
-  - description: ""
+  - description: "Zaimplementowana zostanie strategia lokalna (z przeznaczeniem dla własnej bazy danych)"
     timestamp: 100.664
     type: comment
     reason: "beforeTab: package|json, console"
@@ -103,7 +103,7 @@ annotations:
     timestamp: 179.625
     type: comment
     reason: movement
-  - description: ""
+  - description: "Inicjalizacja passporta oraz strategii"
     timestamp: 188.001
     type: comment
     reason: movement
@@ -163,7 +163,7 @@ annotations:
     timestamp: 302.733
     type: comment
     reason: "longPause: 6255"
-  - description: ""
+  - description: "Passport wymaga stworzenia metod do serializacji oraz deserializacji"
     timestamp: 324.621
     type: comment
     reason: "longPause: 20829"
@@ -195,7 +195,7 @@ annotations:
     timestamp: 375.808
     type: comment
     reason: movement
-  - description: ""
+  - description: "Strategia w tym przypadku jest niczym innym jak przepuszczeniem użytkownika z dowolnym loginem oraz hasłem"
     timestamp: 396.939
     type: comment
     reason: "longPause: 7991"

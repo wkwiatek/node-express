@@ -7,7 +7,7 @@ annotations:
     timestamp: 1.559
     type: comment
     reason: afterTab
-  - description: ""
+  - description: "Do funkcji render jako parametr można przekazać wszystkie zmienne, które będą widoczne w szablonie"
     timestamp: 16.179
     type: comment
     reason: movement
@@ -23,7 +23,7 @@ annotations:
     timestamp: 34.698
     type: comment
     reason: afterTab
-  - description: ""
+  - description: "Przekaze dane można teraz wykorzystać"
     timestamp: 51.223
     type: comment
     reason: "longPause: 9173"

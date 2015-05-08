@@ -12,25 +12,25 @@ iterations:
     materials:
       - title: Node.js server
         material: 550daa643340f578180e9906
-        annotations: 55187314efa2fa2b6adc8ad4
+        annotations: !include ./annotations/pl/1.yml
       - title: Express server
         material: 550daa643340f578180e9907
-        annotations: 55187314efa2fa2b6adc8aec
+        annotations: !include ./annotations/pl/2.yml
       - title: Express server shorthand
         material: 550daa643340f578180e9908
-        annotations: 55187314efa2fa2b6adc8b03
+        annotations: !include ./annotations/pl/3.yml
       - title: Respond with JSON
         material: 550daa643340f578180e9909
-        annotations: 55187314efa2fa2b6adc8b08
+        annotations: !include ./annotations/pl/4.yml
       - title: Middleware
         material: 550daa643340f578180e990a
-        annotations: 55187314efa2fa2b6adc8b0f
+        annotations: !include ./annotations/pl/5.yml
       - title: Static resources
         material: 550daa643340f578180e990b
-        annotations: 55187314efa2fa2b6adc8b1e
+        annotations: !include ./annotations/pl/6.yml
       - title: Middleware and static resources
         material: 550daa643340f578180e990c
-        annotations: 55187314efa2fa2b6adc8b3f
+        annotations: !include ./annotations/pl/7.yml
 
   - title: Iteracja 2
     tasks:
@@ -40,22 +40,22 @@ iterations:
 
       - title: jade
         material: 550daa643340f578180e990d
-        annotations: 55187314efa2fa2b6adc8b4d
+        annotations: !include ./annotations/pl/8.yml
       - title: jade - dynamic content
         material: 550daa643340f578180e990e
-        annotations: 55187314efa2fa2b6adc8b67
+        annotations: !include ./annotations/pl/9.yml
       - title: jade - loops
         material: 550daa643340f578180e990f
-        annotations: 55187314efa2fa2b6adc8b6f
+        annotations: !include ./annotations/pl/10.yml
       - title: Querying API
         material: 550daa643340f578180e9911
-        annotations: 55187314efa2fa2b6adc8b80
+        annotations: !include ./annotations/pl/11.yml
       - title: Request
         material: 550daa643340f578180e9914
-        annotations: 55187314efa2fa2b6adc8b9b
+        annotations: !include ./annotations/pl/12.yml
       - title: Callbacks
         material: 550daa643340f578180e9916
-        annotations: 55187314efa2fa2b6adc8bad
+        annotations: !include ./annotations/pl/13.yml
 
   - title: Iteracja 3
     tasks:
@@ -64,16 +64,16 @@ iterations:
     materials:
       - title: 14. Promises
         material: 550daa643340f578180e9917
-        annotations: 55187314efa2fa2b6adc8bcb
+        annotations: !include ./annotations/pl/14.yml
       - title: 15. Modules
         material: 550daa643340f578180e9918
-        annotations: 55187314efa2fa2b6adc8bf4
+        annotations: !include ./annotations/pl/15.yml
       - title: 16. Additional data in URL
         material: 550daa643340f578180e9919
-        annotations: 55187314efa2fa2b6adc8c35
+        annotations: !include ./annotations/pl/16.yml
       - title: 17. More promises
         material: 550daa643340f578180e991a
-        annotations: 55187314efa2fa2b6adc8c43
+        annotations: !include ./annotations/pl/17.yml
 
   - title: Iteracja 4
     tasks:
@@ -82,15 +82,15 @@ iterations:
     materials:
       - title: 18. Express session
         material: 550daa643340f578180e991b
-        annotations: 55187314efa2fa2b6adc8c67
+        annotations: !include ./annotations/pl/18.yml
       - title: 19. Data in session
         material: 550daa643340f578180e991c
-        annotations: 55187314efa2fa2b6adc8c82
+        annotations: !include ./annotations/pl/19.yml
       - title: 20. Passport Local Strategy
         material: 550daa643340f578180e991e
-        annotations: 55187314efa2fa2b6adc8c97
+        annotations: !include ./annotations/pl/20.yml
       - title: 21. Logging in
         material: 550daa643340f578180e991f
-        annotations: 55187314efa2fa2b6adc8ccb
+        annotations: !include ./annotations/pl/21.yml
 
 shouldRedirectToUnsafe: true

@@ -35,7 +35,7 @@ iterations:
   - title: Iteracja 2
     tasks:
       - title: Tasks 2
-        url: 'https://wkwiatek.github.io/node-express/pl_task3.html'
+        url: 'https://wkwiatek.github.io/node-express/pl_task2.html'
     materials:
 
       - title: jade
@@ -60,7 +60,7 @@ iterations:
   - title: Iteracja 3
     tasks:
       - title: Tasks 3
-        url: 'https://wkwiatek.github.io/node-express/pl_task5.html'
+        url: 'https://wkwiatek.github.io/node-express/pl_task3.html'
     materials:
       - title: 14. Promises
         material: 550daa643340f578180e9917
@@ -78,7 +78,7 @@ iterations:
   - title: Iteracja 4
     tasks:
       - title: Tasks 4
-        url: 'https://wkwiatek.github.io/node-express/pl_task8.html'
+        url: 'https://wkwiatek.github.io/node-express/pl_task4.html'
     materials:
       - title: 18. Express session
         material: 550daa643340f578180e991b

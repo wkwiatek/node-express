@@ -1,0 +1,53 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: test/controller|js, null"
+  - description: ""
+    timestamp: 9.88
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 17.673
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 30.763
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 54.359
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 58.223
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 71.184
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 108.007
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 121.648
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 130.156
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 136.042
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 140.434
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 148.864
+    type: comment
+    reason: last

@@ -1,0 +1,69 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: test/controller|js, null"
+  - description: ""
+    timestamp: 0.122
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 10.817
+    type: comment
+    reason: "beforeTab: package|json, console"
+  - description: ""
+    timestamp: 11.215
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 12.791
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 20.402
+    type: comment
+    reason: "beforeTab: test/controller|js, package|json"
+  - description: ""
+    timestamp: 29.156
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 41.862
+    type: comment
+    reason: "longPause: 11457"
+  - description: ""
+    timestamp: 59.859
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 69.607
+    type: comment
+    reason: "longPause: 6544"
+  - description: ""
+    timestamp: 84.143
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 92.206
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 99.45
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 122.324
+    type: comment
+    reason: "longPause: 12231"
+  - description: ""
+    timestamp: 128.167
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 149.627
+    type: comment
+    reason: "longPause: 8973"
+  - description: ""
+    timestamp: 175.906
+    type: comment
+    reason: last

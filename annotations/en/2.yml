@@ -1,0 +1,89 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 8.879
+    type: comment
+    reason: "longPause: 10176"
+  - description: "For dependencies managment npm will be needed"
+    timestamp: 11.245
+    type: comment
+    reason: afterTab
+  - description: "Dependencies are in package.json, this file will be created after npm init"
+    timestamp: 23.085
+    type: comment
+    reason: "longPause: 6056"
+  - description: ""
+    timestamp: 25.352
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 29.636
+    type: comment
+    reason: "beforeTab: console, package|json"
+  - description: ""
+    timestamp: 34.771
+    type: comment
+    reason: afterTab
+  - description: "Express is external library so it installation will be done by npm intall"
+    timestamp: 45.763
+    type: comment
+    reason: "beforeTab: package|json, console"
+  - description: ""
+    timestamp: 62.887
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 64.797
+    type: comment
+    reason: movement
+  - description: "In file package.json will apear additional field: dependencies"
+    timestamp: 83.791
+    type: comment
+    reason: "beforeTab: index|js, package|json"
+  - description: ""
+    timestamp: 91.306
+    type: comment
+    reason: afterTab
+  - description: "Including extrenal modules can be done in the same way"
+    timestamp: 114.091
+    type: comment
+    reason: "longPause: 5593"
+  - description: ""
+    timestamp: 119.725
+    type: comment
+    reason: "longPause: 5330"
+  - description: ""
+    timestamp: 139.942
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 141.528
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 145.036
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 149.831
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 157.15
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 162.396
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 173.562
+    type: comment
+    reason: movement
+  - description: "In express case, request will be processed by specific route"
+    timestamp: 177.977
+    type: comment
+    reason: last

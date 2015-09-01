@@ -1,0 +1,96 @@
+title: Devmeeting Node+Express
+name: devmeetingNodeExpress
+image: 'https://wkwiatek.github.io/node-express/images/intro.png'
+baseSlide: 550d6531fb2f867818a1b811
+intro: 550db814fbb1d1d745d61ba1
+visible: false
+iterations:
+  - title: Iteration 1
+    tasks:
+      - title: Tasks 1
+        url: 'https://wkwiatek.github.io/node-express/en_task1.html'
+    materials:
+      - title: Node.js server
+        material: 550daa643340f578180e9906
+        annotations: !include ./annotations/en/1.yml
+      - title: Express server
+        material: 550daa643340f578180e9907
+        annotations: !include ./annotations/en/2.yml
+      - title: Express server shorthand
+        material: 550daa643340f578180e9908
+        annotations: !include ./annotations/en/3.yml
+      - title: Respond with JSON
+        material: 550daa643340f578180e9909
+        annotations: !include ./annotations/en/4.yml
+      - title: Middleware
+        material: 550daa643340f578180e990a
+        annotations: !include ./annotations/en/5.yml
+      - title: Static resources
+        material: 550daa643340f578180e990b
+        annotations: !include ./annotations/en/6.yml
+      - title: Middleware and static resources
+        material: 550daa643340f578180e990c
+        annotations: !include ./annotations/en/7.yml
+
+  - title: Iteration 2
+    tasks:
+      - title: Tasks 2
+        url: 'https://wkwiatek.github.io/node-express/en_task2.html'
+    materials:
+
+      - title: jade
+        material: 550daa643340f578180e990d
+        annotations: !include ./annotations/en/8.yml
+      - title: jade - dynamic content
+        material: 550daa643340f578180e990e
+        annotations: !include ./annotations/en/9.yml
+      - title: jade - loops
+        material: 550daa643340f578180e990f
+        annotations: !include ./annotations/en/10.yml
+      - title: Querying API
+        material: 550daa643340f578180e9911
+        annotations: !include ./annotations/en/11.yml
+      - title: Request
+        material: 550daa643340f578180e9914
+        annotations: !include ./annotations/en/12.yml
+      - title: Callbacks
+        material: 550daa643340f578180e9916
+        annotations: !include ./annotations/en/13.yml
+
+  - title: Iteration 3
+    tasks:
+      - title: Tasks 3
+        url: 'https://wkwiatek.github.io/node-express/en_task3.html'
+    materials:
+      - title: 14. Promises
+        material: 550daa643340f578180e9917
+        annotations: !include ./annotations/en/14.yml
+      - title: 15. Modules
+        material: 550daa643340f578180e9918
+        annotations: !include ./annotations/en/15.yml
+      - title: 16. Additional data in URL
+        material: 550daa643340f578180e9919
+        annotations: !include ./annotations/en/16.yml
+      - title: 17. More promises
+        material: 550daa643340f578180e991a
+        annotations: !include ./annotations/en/17.yml
+
+  - title: Iteration 4
+    tasks:
+      - title: Tasks 4
+        url: 'https://wkwiatek.github.io/node-express/en_task4.html'
+    materials:
+      - title: 18. Express session
+        material: 550daa643340f578180e991b
+        annotations: !include ./annotations/en/18.yml
+      - title: 19. Data in session
+        material: 550daa643340f578180e991c
+        annotations: !include ./annotations/en/19.yml
+      - title: 20. Passport Local Strategy
+        material: 550daa643340f578180e991e
+        annotations: !include ./annotations/en/20.yml
+      - title: 21. Logging in
+        material: 550daa643340f578180e991f
+        annotations: !include ./annotations/en/21.yml
+
+shouldRedirectToUnsafe: true

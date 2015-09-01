@@ -1,0 +1,141 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: app/router|js, null"
+  - description: ""
+    timestamp: 5.138
+    type: comment
+    reason: "longPause: 6433"
+  - description: ""
+    timestamp: 9.514
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 12.737
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 19.157
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 21.416
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 22.963
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 33.961
+    type: comment
+    reason: "longPause: 9878"
+  - description: ""
+    timestamp: 38.202
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 47.088
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 54.335
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 56.545
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 60.562
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 63.706
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 65.301
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 74.434
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 78.185
+    type: comment
+    reason: movement
+  - description: "q library allowed to waiting for a few requests"
+    timestamp: 80.7
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 82.342
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 87.324
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 90.536
+    type: comment
+    reason: movement
+  - description: "Function all takes list of promises as an argument"
+    timestamp: 94.464
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 110.446
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 113.47
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 117.998
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 128.343
+    type: comment
+    reason: "longPause: 7936"
+  - description: "Much less data is required to see the effect, so they will be reducted"
+    timestamp: 142.959
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 145.287
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 155.101
+    type: comment
+    reason: "longPause: 7087"
+  - description: ""
+    timestamp: 156.917
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 159.581
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 167.622
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 171.782
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 181.081
+    type: comment
+    reason: "longPause: 8960"
+  - description: ""
+    timestamp: 185.649
+    type: comment
+    reason: last

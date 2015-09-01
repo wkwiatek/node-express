@@ -1,0 +1,257 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 9.057
+    type: comment
+    reason: "longPause: 10353"
+  - description: "NodeJS applications can be divided to modules"
+    timestamp: 11.35
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 15.43
+    type: comment
+    reason: "beforeTab: app/getSongs|js, index|js"
+  - description: ""
+    timestamp: 19.22
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 29.708
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 34.64
+    type: comment
+    reason: "beforeTab: index|js, app/getSongs|js"
+  - description: ""
+    timestamp: 36.208
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 41.875
+    type: comment
+    reason: "longPause: 5200"
+  - description: ""
+    timestamp: 52.58
+    type: comment
+    reason: movement
+  - description: "Their attaching is analogous to attachment of external libraries"
+    timestamp: 60.189
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 67.088
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 69.776
+    type: comment
+    reason: "beforeTab: app/getSongs|js, index|js"
+  - description: ""
+    timestamp: 71.675
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 81.198
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 82.28
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 84.237
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 88.113
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 91.47
+    type: comment
+    reason: "beforeTab: app/getSongs|js, index|js"
+  - description: ""
+    timestamp: 92.034
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 95.664
+    type: comment
+    reason: "beforeTab: index|js, app/getSongs|js"
+  - description: ""
+    timestamp: 100.503
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 102.74
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 110.875
+    type: comment
+    reason: "longPause: 7829"
+  - description: ""
+    timestamp: 122.319
+    type: comment
+    reason: "longPause: 11140"
+  - description: ""
+    timestamp: 126.355
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 128.626
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 130.814
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 133.529
+    type: comment
+    reason: "beforeTab: app/responseTime|js, index|js"
+  - description: ""
+    timestamp: 133.947
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 141.148
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 143.933
+    type: comment
+    reason: "beforeTab: index|js, app/responseTime|js"
+  - description: ""
+    timestamp: 147.29
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 151.692
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 182.278
+    type: comment
+    reason: "longPause: 22491"
+  - description: ""
+    timestamp: 185.595
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 189.883
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 203.768
+    type: comment
+    reason: movement
+  - description: "Router is used in modules"
+    timestamp: 209.147
+    type: comment
+    reason: "beforeTab: index|js, app/router|js"
+  - description: ""
+    timestamp: 212.267
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 213.876
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 216.224
+    type: comment
+    reason: "beforeTab: app/router|js, index|js"
+  - description: ""
+    timestamp: 216.324
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 219.276
+    type: comment
+    reason: "beforeTab: index|js, app/router|js"
+  - description: ""
+    timestamp: 219.861
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 224.386
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 226.383
+    type: comment
+    reason: "beforeTab: app/router|js, index|js"
+  - description: ""
+    timestamp: 227.796
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 232.378
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 233.899
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 236.558
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 239.037
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 248.376
+    type: comment
+    reason: "beforeTab: index|js, app/router|js"
+  - description: "It enables export of paths without transmission of whole server as parameter"
+    timestamp: 251.081
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 253.027
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 259.673
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 263.739
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 267.935
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 277.272
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 281.558
+    type: comment
+    reason: "beforeTab: app/router|js, index|js"
+  - description: ""
+    timestamp: 282.079
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 284.479
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 288.774
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 290.329
+    type: comment
+    reason: last

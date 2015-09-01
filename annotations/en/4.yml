@@ -1,0 +1,25 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 4.526
+    type: comment
+    reason: "longPause: 5824"
+  - description: ""
+    timestamp: 7.737
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 23.534
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 66.226
+    type: comment
+    reason: movement
+  - description: "Response can be easy send as application/json"
+    timestamp: 73.184
+    type: comment
+    reason: last

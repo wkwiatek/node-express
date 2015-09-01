@@ -1,0 +1,65 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 6.009
+    type: comment
+    reason: "longPause: 7305"
+  - description: ""
+    timestamp: 9.473
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 12.174
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 20.503
+    type: comment
+    reason: "longPause: 6488"
+  - description: ""
+    timestamp: 25.661
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 32.009
+    type: comment
+    reason: "beforeTab: views/index|jade, index|js"
+  - description: "More sophisticated structres can be send to a template."
+    timestamp: 37.143
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 54.488
+    type: comment
+    reason: "longPause: 12794"
+  - description: "They can be used on many ways."
+    timestamp: 81.211
+    type: comment
+    reason: "longPause: 11014"
+  - description: ""
+    timestamp: 85.337
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 89.121
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 99.251
+    type: comment
+    reason: "longPause: 5509"
+  - description: ""
+    timestamp: 114.46
+    type: comment
+    reason: "longPause: 8651"
+  - description: ""
+    timestamp: 117.252
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 120.974
+    type: comment
+    reason: last

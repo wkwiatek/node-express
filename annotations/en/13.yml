@@ -1,0 +1,117 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 3.684
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 5.749
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 11.268
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 16.998
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 19.21
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 23.571
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 29.603
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 31.641
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 40.503
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 42.857
+    type: comment
+    reason: movement
+  - description: "Now, getSongs is using modified function based on callback"
+    timestamp: 48.217
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 54.665
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 57.387
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 81.076
+    type: comment
+    reason: "longPause: 13395"
+  - description: ""
+    timestamp: 91.672
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 95.056
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 98.479
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 100.177
+    type: comment
+    reason: movement
+  - description: "Thanks to that, possible is to wait for incoming request"
+    timestamp: 114.357
+    type: comment
+    reason: "longPause: 12119"
+  - description: ""
+    timestamp: 130.525
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 133.38
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 141.566
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 147.943
+    type: comment
+    reason: "longPause: 6047"
+  - description: ""
+    timestamp: 184.164
+    type: comment
+    reason: movement
+  - description: "also helper function will be useful here"
+    timestamp: 191.136
+    type: comment
+    reason: "longPause: 5425"
+  - description: ""
+    timestamp: 211.135
+    type: comment
+    reason: "longPause: 6126"
+  - description: ""
+    timestamp: 215.281
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 217.375
+    type: comment
+    reason: last

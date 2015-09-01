@@ -1,0 +1,129 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 11.131
+    type: comment
+    reason: "longPause: 12421"
+  - description: ""
+    timestamp: 12.844
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 18.507
+    type: comment
+    reason: "longPause: 5942"
+  - description: "Express can be configured to serve static files"
+    timestamp: 27.317
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 32.296
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 36.135
+    type: comment
+    reason: "beforeTab: index|js, public/index|html"
+  - description: ""
+    timestamp: 37.899
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 39.732
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 45.292
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 50.342
+    type: comment
+    reason: movement
+  - description: "Low-level option it's to use file stream"
+    timestamp: 54.376
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 55.967
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 72.336
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 76.567
+    type: comment
+    reason: movement
+  - description: "In the worst case we can read file from hard disc synchronously"
+    timestamp: 91.12
+    type: comment
+    reason: "longPause: 6415"
+  - description: ""
+    timestamp: 105.822
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 108.447
+    type: comment
+    reason: movement
+  - description: "Recommeneded is to use streams, which allow to do the same operation asynchronously"
+    timestamp: 121.584
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 123.696
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 125.216
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 129.636
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 136.802
+    type: comment
+    reason: movement
+  - description: "Differences can be seen in middleware, which has been written while ago"
+    timestamp: 149.681
+    type: comment
+    reason: "longPause: 5155"
+  - description: ""
+    timestamp: 165.767
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 170.102
+    type: comment
+    reason: movement
+  - description: "Express also allow to serve all static files from given directory"
+    timestamp: 174.636
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 182.638
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 185.227
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 202.243
+    type: comment
+    reason: "longPause: 13918"
+  - description: ""
+    timestamp: 205.527
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 212.565
+    type: comment
+    reason: last

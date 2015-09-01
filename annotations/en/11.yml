@@ -1,0 +1,105 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 5.252
+    type: comment
+    reason: "longPause: 6548"
+  - description: ""
+    timestamp: 9.142
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 12.424
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 46.811
+    type: comment
+    reason: "longPause: 34339"
+  - description: "To fetch a data from external API, 'request' is going be used again."
+    timestamp: 81.195
+    type: comment
+    reason: movement
+  - description: "Received by callback data are in fact a stream."
+    timestamp: 92.965
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 99.7
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 105.748
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 108.273
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 110.363
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 112.843
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 114.793
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 119.788
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 121.291
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 124.835
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 138.163
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 147.996
+    type: comment
+    reason: movement
+  - description: "Incoming ansynchronously data has to be combined manually into single response."
+    timestamp: 150.499
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 175.162
+    type: comment
+    reason: "longPause: 21889"
+  - description: ""
+    timestamp: 181.548
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 184.916
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 190.235
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 198.171
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 201.267
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 202.875
+    type: comment
+    reason: last

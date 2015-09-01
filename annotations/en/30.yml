@@ -1,0 +1,61 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: app/router|js, null"
+  - description: ""
+    timestamp: 3.896
+    type: comment
+    reason: "longPause: 5192"
+  - description: ""
+    timestamp: 5.556
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 7.572
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 16.663
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 24.246
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 28.406
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 31.149
+    type: comment
+    reason: "beforeTab: console, index|js"
+  - description: ""
+    timestamp: 45.743
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 84.451
+    type: comment
+    reason: "beforeTab: package|json, console"
+  - description: ""
+    timestamp: 90.719
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 104.218
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 132.207
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 153.512
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 165.597
+    type: comment
+    reason: last

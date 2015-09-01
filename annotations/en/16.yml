@@ -1,0 +1,53 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: app/router|js, null"
+  - description: ""
+    timestamp: 9.124
+    type: comment
+    reason: "beforeTab: app/getSongs|js, app/router|js"
+  - description: "query in request stores all data sent as GET parameters"
+    timestamp: 10.842
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 14.598
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 18.146
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 21.395
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 24.449
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 26.921
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 32.191
+    type: comment
+    reason: "beforeTab: app/router|js, app/getSongs|js"
+  - description: ""
+    timestamp: 44.084
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 74.739
+    type: comment
+    reason: "longPause: 17601"
+  - description: ""
+    timestamp: 81.003
+    type: comment
+    reason: movement
+  - description: "Params store data directly from the URL"
+    timestamp: 83.793
+    type: comment
+    reason: last

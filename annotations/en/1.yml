@@ -1,0 +1,93 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 4.315
+    type: comment
+    reason: "longPause: 5614"
+  - description: ""
+    timestamp: 7.369
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 11.64
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 30.408
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 35.423
+    type: comment
+    reason: movement
+  - description: "NodeJs works with the same JavaScript syntax as client side does."
+    timestamp: 45.113
+    type: comment
+    reason: movement
+  - description: "However, we NodeJs comes with many built-in."
+    timestamp: 56.41
+    type: comment
+    reason: movement
+  - description: "One of them is 'http', which simply allows you to create http server."
+    timestamp: 68.237
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 71.812
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 78.476
+    type: comment
+    reason: movement
+  - description: "Callback gets executed when connection on specified port is made."
+    timestamp: 85.146
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 91.64
+    type: comment
+    reason: movement
+  - description: "Callback function receives two parameters: 'request' and 'response'."
+    timestamp: 94.832
+    type: comment
+    reason: movement
+  - description: "Execution of 'end' method on 'response' object sends a data to a client."
+    timestamp: 103.669
+    type: comment
+    reason: "longPause: 5136"
+  - description: ""
+    timestamp: 106.707
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 111.477
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 116.149
+    type: comment
+    reason: movement
+  - description: "Once executed 'end' method closes response's stream."
+    timestamp: 120.153
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 122.427
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 124.379
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 137.881
+    type: comment
+    reason: movement
+  - description: "'Request' object has holds lot of useful data like url."
+    timestamp: 143.551
+    type: comment
+    reason: last

@@ -1,0 +1,185 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: public/chat|js, null"
+  - description: ""
+    timestamp: 6.655
+    type: comment
+    reason: "longPause: 7952"
+  - description: ""
+    timestamp: 15.379
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 43.739
+    type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
+  - description: ""
+    timestamp: 46.225
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 47.756
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 49.338
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 54.592
+    type: comment
+    reason: "beforeTab: app/controller|js, app/router|js"
+  - description: ""
+    timestamp: 56.083
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 57.654
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 59.708
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 62.147
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 65.255
+    type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
+  - description: ""
+    timestamp: 68.509
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 71.954
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 76.094
+    type: comment
+    reason: "beforeTab: app/controller|js, app/router|js"
+  - description: ""
+    timestamp: 76.923
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 80.949
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 82.989
+    type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
+  - description: ""
+    timestamp: 83.737
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 89.434
+    type: comment
+    reason: "beforeTab: app/controller|js, app/router|js"
+  - description: ""
+    timestamp: 90.037
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 91.772
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 93.825
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 96.784
+    type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
+  - description: ""
+    timestamp: 100.337
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 103.638
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 107.139
+    type: comment
+    reason: "beforeTab: app/controller|js, app/router|js"
+  - description: ""
+    timestamp: 107.639
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 109.272
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 113.089
+    type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
+  - description: ""
+    timestamp: 116.279
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 125.027
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 130.626
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 139.742
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 144.361
+    type: comment
+    reason: "beforeTab: app/chat|js, app/router|js"
+  - description: ""
+    timestamp: 146.029
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 149.771
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 152.542
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 162.27
+    type: comment
+    reason: "longPause: 7984"
+  - description: ""
+    timestamp: 166.328
+    type: comment
+    reason: "beforeTab: app/router|js, app/controller|js"
+  - description: ""
+    timestamp: 166.932
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 185.066
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 187
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 189.327
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 195.326
+    type: comment
+    reason: last

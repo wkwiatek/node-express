@@ -1,0 +1,101 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: console, null"
+  - description: ""
+    timestamp: 4.82
+    type: comment
+    reason: "longPause: 6115"
+  - description: "Jade is one of extrenal libraries for dynamic templates"
+    timestamp: 11.836
+    type: comment
+    reason: "beforeTab: package|json, console"
+  - description: ""
+    timestamp: 12.399
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 34.125
+    type: comment
+    reason: "longPause: 17814"
+  - description: ""
+    timestamp: 43.268
+    type: comment
+    reason: afterTab
+  - description: "Syntax of jade is simplified syntax of html"
+    timestamp: 59.694
+    type: comment
+    reason: "longPause: 5174"
+  - description: ""
+    timestamp: 67.004
+    type: comment
+    reason: "beforeTab: index|js, views/index|jade"
+  - description: "Nest level is recognized by indent"
+    timestamp: 72.208
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 81.843
+    type: comment
+    reason: "longPause: 9178"
+  - description: ""
+    timestamp: 85.522
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 87.781
+    type: comment
+    reason: movement
+  - description: "Express should be configured to work with jade"
+    timestamp: 100.489
+    type: comment
+    reason: movement
+  - description: "And set directory with templates"
+    timestamp: 111.189
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 122.751
+    type: comment
+    reason: "longPause: 5381"
+  - description: ""
+    timestamp: 136.035
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 139.62
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 143.582
+    type: comment
+    reason: movement
+  - description: "Use of specific template is realized by execution render method"
+    timestamp: 155.113
+    type: comment
+    reason: "longPause: 7137"
+  - description: ""
+    timestamp: 171.018
+    type: comment
+    reason: "longPause: 7649"
+  - description: ""
+    timestamp: 173.296
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 186.317
+    type: comment
+    reason: "longPause: 11888"
+  - description: ""
+    timestamp: 191.308
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 214.935
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 222.893
+    type: comment
+    reason: movement

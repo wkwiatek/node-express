@@ -1,0 +1,17 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 5.156
+    type: comment
+    reason: "longPause: 6455"
+  - description: ""
+    timestamp: 9.045
+    type: comment
+    reason: largeJump
+  - description: "Module http is not required anymore"
+    timestamp: 12.998
+    type: comment
+    reason: last

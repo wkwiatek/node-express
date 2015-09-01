@@ -1,0 +1,105 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 1.538
+    type: comment
+    reason: afterTab
+  - description: "For the smooth data holding in the session, cookie-parser and express-session will be useful"
+    timestamp: 20.658
+    type: comment
+    reason: "beforeTab: index|js, console"
+  - description: ""
+    timestamp: 21.596
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 23.578
+    type: comment
+    reason: "beforeTab: console, index|js"
+  - description: ""
+    timestamp: 28.625
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 34.059
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 49.691
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 74.118
+    type: comment
+    reason: "beforeTab: index|js, package|json"
+  - description: ""
+    timestamp: 79.252
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 90.313
+    type: comment
+    reason: "longPause: 10604"
+  - description: ""
+    timestamp: 97.828
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 104.882
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 110.577
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 125.825
+    type: comment
+    reason: "longPause: 15248"
+  - description: ""
+    timestamp: 127.576
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 131.891
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 138.273
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 181.55
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 184.675
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 202.372
+    type: comment
+    reason: "longPause: 17391"
+  - description: ""
+    timestamp: 209.19
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 219.341
+    type: comment
+    reason: "longPause: 8677"
+  - description: ""
+    timestamp: 234.678
+    type: comment
+    reason: "longPause: 14277"
+  - description: ""
+    timestamp: 322.199
+    type: comment
+    reason: "longPause: 87216"
+  - description: ""
+    timestamp: 325.316
+    type: comment
+    reason: last

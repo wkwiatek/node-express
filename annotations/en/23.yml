@@ -1,0 +1,25 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: app/router|js, null"
+  - description: ""
+    timestamp: 2.756
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 10.791
+    type: comment
+    reason: "beforeTab: package|json, console"
+  - description: ""
+    timestamp: 19.64
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 23.232
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 23.872
+    type: comment
+    reason: afterTab

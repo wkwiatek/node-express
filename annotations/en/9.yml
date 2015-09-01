@@ -1,0 +1,29 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: views/index|jade, null"
+  - description: ""
+    timestamp: 1.559
+    type: comment
+    reason: afterTab
+  - description: "It's okay to send all variables, as parameter to 'render' function, which are going to be displayed in a template."
+    timestamp: 16.179
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 18.311
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 22.84
+    type: comment
+    reason: "beforeTab: views/index|jade, index|js"
+  - description: ""
+    timestamp: 34.698
+    type: comment
+    reason: afterTab
+  - description: "Previously send data can be used here."
+    timestamp: 51.223
+    type: comment
+    reason: "longPause: 9173"

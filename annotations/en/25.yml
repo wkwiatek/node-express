@@ -1,0 +1,73 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: views/index|jade, null"
+  - description: ""
+    timestamp: 1.984
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 40.759
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 46.872
+    type: comment
+    reason: "beforeTab: public/chat|js, views/chat|jade"
+  - description: ""
+    timestamp: 60.284
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 72.38
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 77.233
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 86.506
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 91.879
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 95.497
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 116.819
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 137.223
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 143.185
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 145.634
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 147.686
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 152.334
+    type: comment
+    reason: "beforeTab: app/chat|js, public/chat|js"
+  - description: ""
+    timestamp: 161.676
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 169.126
+    type: comment
+    reason: last

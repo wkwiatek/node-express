@@ -1,0 +1,69 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 5.772
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 16.047
+    type: comment
+    reason: "beforeTab: package|json, console"
+  - description: "Fetching data is going to be easier thanks to 'request' library"
+    timestamp: 19.264
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 41.886
+    type: comment
+    reason: "longPause: 13843"
+  - description: ""
+    timestamp: 45.481
+    type: comment
+    reason: "beforeTab: index|js, package|json"
+  - description: ""
+    timestamp: 45.63
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 48.527
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 51.107
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 54.053
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 58.706
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 68.263
+    type: comment
+    reason: movement
+  - description: "Syntax is similiar, but there is a stream instead of a data"
+    timestamp: 77.543
+    type: comment
+    reason: "longPause: 8255"
+  - description: ""
+    timestamp: 82.231
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 115.645
+    type: comment
+    reason: "longPause: 31476"
+  - description: ""
+    timestamp: 123.938
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 126.995
+    type: comment
+    reason: last

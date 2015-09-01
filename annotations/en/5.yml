@@ -1,0 +1,57 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 2.59
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 4.566
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 8.33
+    type: comment
+    reason: movement
+  - description: "Express allow to bind middlewares to incomming requests"
+    timestamp: 12.738
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 32.731
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 49.702
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 51.345
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 59.68
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 67.582
+    type: comment
+    reason: movement
+  - description: "They have accesse both request and response"
+    timestamp: 75.814
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 87.244
+    type: comment
+    reason: "longPause: 7338"
+  - description: "Most important is execution callback after the operation"
+    timestamp: 100.665
+    type: comment
+    reason: "longPause: 7901"
+  - description: ""
+    timestamp: 102.351
+    type: comment
+    reason: last

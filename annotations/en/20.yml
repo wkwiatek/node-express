@@ -1,0 +1,205 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 3.682
+    type: comment
+    reason: "urlChange: undefined, null"
+  - description: ""
+    timestamp: 7.806
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 16.453
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 19.666
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 22.351
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 28.455
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 33.484
+    type: comment
+    reason: movement
+  - description: "New module is called with the whole context of an application submitted"
+    timestamp: 42.873
+    type: comment
+    reason: "longPause: 7044"
+  - description: ""
+    timestamp: 45.189
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 60.335
+    type: comment
+    reason: "beforeTab: console, app/auth|js"
+  - description: ""
+    timestamp: 90.177
+    type: comment
+    reason: afterTab
+  - description: "Passport is used for the user authenticaion"
+    timestamp: 92.396
+    type: comment
+    reason: movement
+  - description: "The local strategy will be implemented (designed for its own database)"
+    timestamp: 100.664
+    type: comment
+    reason: "beforeTab: package|json, console"
+  - description: ""
+    timestamp: 100.696
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 113.288
+    type: comment
+    reason: "beforeTab: console, package|json"
+  - description: ""
+    timestamp: 114.026
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 126.085
+    type: comment
+    reason: "beforeTab: package|json, console"
+  - description: ""
+    timestamp: 126.144
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 141.212
+    type: comment
+    reason: "beforeTab: app/auth|js, package|json"
+  - description: ""
+    timestamp: 143.25
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 151.925
+    type: comment
+    reason: "longPause: 8218"
+  - description: ""
+    timestamp: 158.785
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 161.631
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 167.27
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 179.625
+    type: comment
+    reason: movement
+  - description: "Initialization of the passport and strategy"
+    timestamp: 188.001
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 192.837
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 232.573
+    type: comment
+    reason: "longPause: 19974"
+  - description: ""
+    timestamp: 237.621
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 241.042
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 246.721
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 252.066
+    type: comment
+    reason: "longPause: 5345"
+  - description: ""
+    timestamp: 263.743
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 270.874
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 274.683
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 278.748
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 284.603
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 287.842
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 294.492
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 302.733
+    type: comment
+    reason: "longPause: 6255"
+  - description: "Passport requires the creation of serialization and deserialization methods"
+    timestamp: 324.621
+    type: comment
+    reason: "longPause: 20829"
+  - description: ""
+    timestamp: 330.276
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 333.294
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 340.371
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 350.839
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 357.773
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 370.376
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 375.808
+    type: comment
+    reason: movement
+  - description: "In this case the strategy is nothing else than passing the user with any login and password"
+    timestamp: 396.939
+    type: comment
+    reason: "longPause: 7991"
+  - description: ""
+    timestamp: 409.839
+    type: comment
+    reason: last

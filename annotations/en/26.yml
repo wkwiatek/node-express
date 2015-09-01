@@ -1,0 +1,97 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: app/chat|js, null"
+  - description: ""
+    timestamp: 12.49
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 18.45
+    type: comment
+    reason: "beforeTab: app/router|js, app/chat|js"
+  - description: ""
+    timestamp: 30.689
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 42.018
+    type: comment
+    reason: "longPause: 10873"
+  - description: ""
+    timestamp: 48.827
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 52.373
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 58.642
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 68.4
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 77.857
+    type: comment
+    reason: "beforeTab: views/chat|jade, app/router|js"
+  - description: ""
+    timestamp: 88.04
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 104.692
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 116.282
+    type: comment
+    reason: "beforeTab: public/chat|js, views/chat|jade"
+  - description: ""
+    timestamp: 125.447
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 133.663
+    type: comment
+    reason: "longPause: 7757"
+  - description: ""
+    timestamp: 138.939
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 159.051
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 175.572
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 197.93
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 207.221
+    type: comment
+    reason: "longPause: 6888"
+  - description: ""
+    timestamp: 266.616
+    type: comment
+    reason: "urlChange: /login, /"
+  - description: ""
+    timestamp: 270.161
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 279.343
+    type: comment
+    reason: "longPause: 6958"
+  - description: ""
+    timestamp: 285.586
+    type: comment
+    reason: last

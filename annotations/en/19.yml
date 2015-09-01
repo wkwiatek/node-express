@@ -1,0 +1,81 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 5.021
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 44.754
+    type: comment
+    reason: movement
+  - description: "Property session has information kept by the Express in session; it can be freely expand"
+    timestamp: 46.307
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 73.874
+    type: comment
+    reason: "beforeTab: app/router|js, index|js"
+  - description: ""
+    timestamp: 87.325
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 109.825
+    type: comment
+    reason: "beforeTab: views/index|jade, app/router|js"
+  - description: ""
+    timestamp: 112.018
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 113.85
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 128.596
+    type: comment
+    reason: "beforeTab: index|js, views/index|jade"
+  - description: ""
+    timestamp: 141.163
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 146.536
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 149.629
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 153.268
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 165.831
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 168.542
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 173.242
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 175.477
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 179.039
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 183.079
+    type: comment
+    reason: last

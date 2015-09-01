@@ -1,0 +1,113 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: views/index|jade, null"
+  - description: ""
+    timestamp: 3.863
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 16.187
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 19.082
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 30.457
+    type: comment
+    reason: "beforeTab: views/login|jade, app/auth|js"
+  - description: "The creation of the standard login form"
+    timestamp: 31.774
+    type: comment
+    reason: afterTab
+  - description: "The names of the fields are important: username and password"
+    timestamp: 79.182
+    type: comment
+    reason: "beforeTab: app/auth|js, views/login|jade"
+  - description: ""
+    timestamp: 85.686
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 87.553
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 89.666
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 94.205
+    type: comment
+    reason: movement
+  - description: "Middleware from passport is plugged to check user and in the case of success, redirect is executed"
+    timestamp: 120.481
+    type: comment
+    reason: "beforeTab: views/index|jade, app/auth|js"
+  - description: ""
+    timestamp: 124.021
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 137.698
+    type: comment
+    reason: "beforeTab: app/auth|js, views/index|jade"
+  - description: ""
+    timestamp: 139.839
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 142.95
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 155.289
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 162.544
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 164.995
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 166.882
+    type: comment
+    reason: "beforeTab: index|js, app/auth|js"
+  - description: "Logout destroys the passport's session"
+    timestamp: 180.82
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 183.171
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 191.493
+    type: comment
+    reason: "beforeTab: package|json, console"
+  - description: "body-parser is required for the correct operation"
+    timestamp: 195.017
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 208.131
+    type: comment
+    reason: "beforeTab: index|js, package|json"
+  - description: ""
+    timestamp: 211.064
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 217.545
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 224.534
+    type: comment
+    reason: last

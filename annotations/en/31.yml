@@ -1,0 +1,49 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: package|json, null"
+  - description: ""
+    timestamp: 3.972
+    type: comment
+    reason: "longPause: 5265"
+  - description: ""
+    timestamp: 10.887
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 18.453
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 24.688
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 33.683
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 37.051
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 66.059
+    type: comment
+    reason: "longPause: 7764"
+  - description: ""
+    timestamp: 80.855
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 90.469
+    type: comment
+    reason: "longPause: 7262"
+  - description: ""
+    timestamp: 95.982
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 114.162
+    type: comment
+    reason: last

@@ -1,0 +1,53 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 5.283
+    type: comment
+    reason: "longPause: 6575"
+  - description: ""
+    timestamp: 15.954
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 17.91
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 24.577
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 27.887
+    type: comment
+    reason: movement
+  - description: "Middleware work on all requests, also those for static files"
+    timestamp: 43.77
+    type: comment
+    reason: "longPause: 13717"
+  - description: ""
+    timestamp: 48.143
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 57.512
+    type: comment
+    reason: "beforeTab: public/index|html, public/styles|css"
+  - description: ""
+    timestamp: 59.355
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 65.063
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 76.647
+    type: comment
+    reason: "longPause: 7051"
+  - description: "Now it is possible to get static files served by express"
+    timestamp: 80.209
+    type: comment
+    reason: last

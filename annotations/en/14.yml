@@ -1,0 +1,161 @@
+annotations:
+  - description: ""
+    timestamp: 0
+    type: comment
+    reason: "beforeTab: index|js, null"
+  - description: ""
+    timestamp: 2.714
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 12.106
+    type: comment
+    reason: "beforeTab: index|js, console"
+  - description: ""
+    timestamp: 12.513
+    type: comment
+    reason: afterTab
+  - description: ""
+    timestamp: 15.253
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 20.889
+    type: comment
+    reason: movement
+  - description: "For avoiding callback hell useful is Q library"
+    timestamp: 23.101
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 34.661
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 42.313
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 47.232
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 66.879
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 72.352
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 80.941
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 84.938
+    type: comment
+    reason: largeJump
+  - description: "Thanks to that we are able to change callbacks into 'then' functions"
+    timestamp: 92.397
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 98.246
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 100.025
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 106.154
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 113.875
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 115.396
+    type: comment
+    reason: movement
+  - description: "Requests are chainable"
+    timestamp: 131.772
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 144.349
+    type: comment
+    reason: "longPause: 9589"
+  - description: ""
+    timestamp: 146.716
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 153.938
+    type: comment
+    reason: movement
+  - description: "Request may be done using q library"
+    timestamp: 160.788
+    type: comment
+    reason: largeJump
+  - description: ""
+    timestamp: 165.335
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 167.747
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 170.317
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 180.585
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 184.368
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 187.248
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 193.668
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 195.564
+    type: comment
+    reason: movement
+  - description: "And then, requrest returns promise"
+    timestamp: 203.311
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 205.465
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 208.276
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 212.072
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 218.414
+    type: comment
+    reason: movement
+  - description: ""
+    timestamp: 237.886
+    type: comment
+    reason: "longPause: 12495"
+  - description: ""
+    timestamp: 239.664
+    type: comment
+    reason: last
